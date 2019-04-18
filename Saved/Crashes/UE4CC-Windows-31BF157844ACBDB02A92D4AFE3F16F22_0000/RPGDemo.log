@@ -1,0 +1,1172 @@
+﻿Log file open, 03/10/19 20:11:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RPGDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.608727
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.360s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE4/UE4_Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.11-00.11.14:353][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.11-00.11.14:353][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.11-00.11.14:525][  0]LogHAL: Display: Platform has ~ 8 GB [8505778176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.11-00.11.14:526][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.11-00.11.14:526][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.11-00.11.14:553][  0]LogInit: Computer: MSI
+[2019.03.11-00.11.14:553][  0]LogInit: User: 00siv
+[2019.03.11-00.11.14:553][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.11-00.11.14:553][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.03.11-00.11.14:554][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.11-00.11.14:554][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.11-00.11.14:554][  0]LogMemory: Process Physical Memory: 101.00 MB used, 101.00 MB peak
+[2019.03.11-00.11.14:554][  0]LogMemory: Process Virtual Memory: 89.47 MB used, 89.47 MB peak
+[2019.03.11-00.11.14:554][  0]LogMemory: Physical Memory: 5188.02 MB used,  2923.73 MB free, 8111.74 MB total
+[2019.03.11-00.11.14:554][  0]LogMemory: Virtual Memory: 4644.14 MB used,  2923.73 MB free, 134217728.00 MB total
+[2019.03.11-00.11.15:210][  0]LogInit: Using OS detected language (en-US).
+[2019.03.11-00.11.15:210][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.11-00.11.15:231][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.11-00.11.16:035][  0]LogStreaming: Display: Took  0.825s to InitEngineTextLocalization.
+[2019.03.11-00.11.16:035][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.11-00.11.16:645][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.11-00.11.16:645][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.11-00.11.20:676][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.11-00.11.20:676][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.11-00.11.20:772][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.03.11-00.11.20:772][  0]LogD3D11RHI:       4021/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.11-00.11.20:780][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.11-00.11.20:780][  0]LogD3D11RHI:       128/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.11-00.11.20:784][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.11-00.11.20:784][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.11-00.11.20:784][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.11-00.11.20:803][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.11-00.11.20:803][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.03.11-00.11.20:803][  0]LogWindows: EnumDisplayDevices:
+[2019.03.11-00.11.20:803][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.11-00.11.20:837][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.11-00.11.20:837][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.11-00.11.20:838][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.11-00.11.20:838][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.03.11-00.11.20:838][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.11-00.11.20:838][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.11-00.11.20:838][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.03.11-00.11.20:888][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.11-00.11.21:158][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.11-00.11.21:186][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../Projects/RPGDemo/Intermediate/Shaders/WorkingDirectory/1616/).
+[2019.03.11-00.11.21:186][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/00siv/AppData/Local/Temp/UnrealShaderWorkingDir/260B29D645F6E759A2D1958583319C22/'.
+[2019.03.11-00.11.21:877][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.11-00.11.21:899][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.11-00.11.21:936][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.11-00.11.21:970][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.11-00.11.22:024][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.11-00.11.22:057][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.11-00.11.22:084][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.11-00.11.22:130][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.11-00.11.22:149][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-00.11.22:308][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.11-00.11.22:438][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.11-00.11.22:438][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.11-00.11.22:489][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.11-00.11.22:489][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.11-00.11.22:513][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.11-00.11.22:555][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.11-00.11.22:583][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.11-00.11.22:627][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.11-00.11.22:671][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.11-00.11.22:671][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.11-00.11.23:238][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.03.11-00.11.26:431][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.11-00.11.26:586][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/00siv/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.11-00.11.26:632][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/00siv/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.11-00.11.26:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/RPGDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.11-00.11.26:632][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.11-00.11.26:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/RPGDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.11-00.11.26:632][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.11-00.11.26:672][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.11-00.11.26:684][  0]LogDerivedDataCache: Using Local data cache path C:/Users/00siv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.11-00.11.26:684][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.11-00.11.26:684][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.11-00.11.26:707][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.11-00.11.26:754][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.11-00.11.26:800][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.11-00.11.27:678][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2019.03.11-00.11.30:034][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.11-00.11.31:638][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.11-00.11.31:717][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.11-00.11.31:717][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.11-00.11.31:717][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.11-00.11.31:717][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.11-00.11.32:009][  0]LogNetVersion: RPGDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4234545947)
+[2019.03.11-00.11.35:516][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.162635 seconds
+[2019.03.11-00.11.35:661][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.11-00.11.35:661][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.11-00.11.35:661][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.11-00.11.45:499][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.11-00.11.45:530][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.11-00.11.46:695][  0]SourceControl: Source control is disabled
+[2019.03.11-00.11.46:695][  0]SourceControl: Source control is disabled
+[2019.03.11-00.11.46:750][  0]SourceControl: Source control is disabled
+[2019.03.11-00.11.46:772][  0]SourceControl: Source control is disabled
+[2019.03.11-00.11.47:857][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.11-00.11.48:077][  0]LogOcInput: OculusInput pre-init called
+[2019.03.11-00.11.48:645][  0]LogEngine: Initializing Engine...
+[2019.03.11-00.11.48:681][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.11-00.11.48:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.11-00.11.48:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.11-00.11.48:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.11-00.11.48:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.11-00.11.50:262][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.11-00.11.50:427][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.11-00.11.50:448][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-00.11.50:580][  0]LogInit: FAudioDevice initialized.
+[2019.03.11-00.11.50:580][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.11-00.11.50:637][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/00siv/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.11-00.11.50:651][  0]LogInit: Texture streaming: Enabled
+[2019.03.11-00.11.51:143][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.11-00.11.51:289][  0]LogInit: Transaction tracking system initialized
+[2019.03.11-00.11.51:754][  0]BlueprintLog: New page: Editor Load
+[2019.03.11-00.11.52:700][  0]LocalizationService: Localization service is disabled
+[2019.03.11-00.11.56:348][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Content/' took 0.02s
+[2019.03.11-00.11.56:348][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.11-00.11.56:348][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.11-00.11.56:348][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.11-00.11.56:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.11-00.11.56:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.11-00.11.56:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.11-00.11.56:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.11-00.12.00:105][  0]SourceControl: Source control is disabled
+[2019.03.11-00.12.00:106][  0]Cmd: MAP LOAD FILE="../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.11-00.12.00:131][  0]LightingResults: New page: Lighting Build
+[2019.03.11-00.12.00:174][  0]MapCheck: New page: Map Check
+[2019.03.11-00.12.00:174][  0]LightingResults: New page: Lighting Build
+[2019.03.11-00.12.01:907][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.03.11-00.12.02:011][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.11-00.12.02:053][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.11-00.12.02:129][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.474ms to complete.
+[2019.03.11-00.12.02:129][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.023
+[2019.03.11-00.12.02:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-00.12.02:635][  0]LogCollectionManager: Loaded 0 collections in 0.001187 seconds
+[2019.03.11-00.12.02:731][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Saved/Collections/' took 0.01s
+[2019.03.11-00.12.02:731][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Content/Developers/00siv/Collections/' took 0.01s
+[2019.03.11-00.12.02:731][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Content/Collections/' took 0.01s
+[2019.03.11-00.12.02:731][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.11-00.12.02:742][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2572 classes and 603 folders.
+[2019.03.11-00.12.02:850][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.11-00.12.04:376][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.11-00.12.04:419][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.11-00.12.04:569][  0]LogSlate: Took 0.026500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.11-00.12.04:595][  0]LogSlate: Took 0.022405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.11-00.12.04:628][  0]LogSlate: Took 0.028335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.11-00.12.04:911][  0]LogRenderer: Reallocating scene render targets to support 1112x604 Format 10 NumSamples 1 (Frame:1).
+[2019.03.11-00.12.05:345][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.11-00.12.05:345][  0]LogLoad: (Engine Initialization) Total time: 69.50 seconds
+[2019.03.11-00.12.05:345][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.11-00.12.05:364][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.11-00.12.05:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.11-00.12.05:511][  1]LogRenderer: Reallocating scene render targets to support 1112x616 Format 10 NumSamples 1 (Frame:3).
+[2019.03.11-00.12.05:524][  1]LogAssetRegistry: Asset discovery search completed in 37.8688 seconds
+[2019.03.11-00.12.05:526][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.11-00.12.05:526][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.03.11-00.12.06:485][ 42]LogSlate: Took 0.016073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.11-00.12.09:522][223]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.11-00.12.11:031][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-00.12.11:527][318]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.11-00.12.12:790][318]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.03.11-00.12.14:194][318]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Spawner_BP.Spawner_BP
+[2019.03.11-00.12.14:543][318]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character
+[2019.03.11-00.12.14:937][318]LogSlate: Took 0.020639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.11-00.12.15:231][319]LogSlate: Took 0.017357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.11-00.12.25:884][796]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.11-00.12.34:403][304]MapCheck: New page: Map Check
+[2019.03.11-00.12.34:432][304]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.11-00.12.34:432][304]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.11-00.12.34:672][304]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2019.03.11-00.12.34:715][304]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2019.03.11-00.12.34:721][304]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.03.11-00.12.34:728][304]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.03.11-00.12.38:358][304]TextureStreamingBuild: Display: Compiling optional shaders took 3.716 seconds.
+[2019.03.11-00.12.38:411][304]LogLevel: Display: Export Material TexCoord Scales took 0.053 seconds.
+[2019.03.11-00.12.38:422][304]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2019.03.11-00.12.38:485][304]LightingResults: New page: Lighting Build - Mar 10, 2019, 4:12:38 PM
+[2019.03.11-00.12.38:603][304]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.11-00.12.38:609][304]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.11-00.12.38:622][304]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.11-00.12.38:626][304]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.11-00.12.38:627][304]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1616
+[2019.03.11-00.12.43:163][304]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.03.11-00.12.43:163][304]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.11-00.12.43:163][304]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.11-00.12.43:163][304]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.11-00.12.43:163][304]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.11-00.12.43:163][304]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.11-00.12.43:274][304]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.11-00.12.43:274][304]MapCheck: New page: Minimal_Default - Mar 10, 2019, 4:12:43 PM
+[2019.03.11-00.12.43:274][304]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.03.11-00.12.43:402][304]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 127.032ms to complete.
+[2019.03.11-00.12.43:424][304]LogEditorBuildUtils: Build time 0:09
+[2019.03.11-00.12.45:425][379]Job is a success!
+[2019.03.11-00.12.45:498][380]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.03.11-00.12.45:498][380]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.11-00.12.45:498][380]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2019.03.11-00.12.45:498][380]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.11-00.12.45:498][380]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2019.03.11-00.12.45:498][380]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2019.03.11-00.12.45:498][380]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.03.11-00.12.45:556][380]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2019.03.11-00.12.45:605][380]Lightmass on MSI: 1.24 sec total, 240 ms importing, 20 ms setup, 401 ms photons, 540 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 3.61 sec total, 345 ms processing.
+[2019.03.11-00.12.45:613][380]LogStaticLightingSystem: Illumination: 7.12 sec (22 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2019.03.11-00.12.45:613][380]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.11-00.12.45:613][380]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.11-00.12.46:150][380]DumpUnbuiltLightIteractions
+[2019.03.11-00.12.46:151][380]Lights with unbuilt interactions: 0
+[2019.03.11-00.12.46:151][380]
+[2019.03.11-00.12.46:151][380]Primitives with unbuilt interactions: 0
+[2019.03.11-00.12.46:239][381]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.11-00.12.46:239][381]MapCheck: New page: Minimal_Default - Mar 10, 2019, 4:12:46 PM
+[2019.03.11-00.12.46:325][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.41ms to complete.
+[2019.03.11-00.12.47:678][461]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-00.12.47:680][461]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-00.13.30:225][800]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.11-00.13.48:456][889]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Enemy.Paper2D_Enemy
+[2019.03.11-00.13.48:906][890]LogRenderer: Reallocating scene render targets to support 1216x712 Format 10 NumSamples 1 (Frame:1).
+[2019.03.11-00.22.12:464][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-00.22.13:023][ 56]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_Default_Auto13486EE394F35A96237E82B8A7F034519.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.03.11-00.22.13:049][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.547
+[2019.03.11-00.22.13:049][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.547
+[2019.03.11-00.22.13:051][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Maps/Minimal_Default_BuiltData] ([1] browsable assets)...
+[2019.03.11-00.22.13:052][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/Minimal_Default_BuiltData]
+[2019.03.11-00.22.13:077][ 56]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_Default_BuiltData_Auto1270A6549489370E73802ABBBD483A7BF.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto1.uasset'
+[2019.03.11-00.22.13:079][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Paper2D_Enemy] ([1] browsable assets)...
+[2019.03.11-00.22.13:079][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Paper2D_Enemy]
+[2019.03.11-00.22.13:098][ 56]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_Enemy_Auto13CBB1FDF41CBE0840514C78C3CBC8B92.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Character/Paper2D_Enemy_Auto1.uasset'
+[2019.03.11-00.22.13:099][ 56]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.03.11-00.22.33:555][258]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_NPC.Paper2D_NPC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/Paper2D_Enemy.PackageMetaData'
+[2019.03.11-00.22.33:555][258]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_NPC.SKEL_Paper2D_NPC_C' ref from Metadata '/Game/Blueprints/Character/Paper2D_Enemy.PackageMetaData'
+[2019.03.11-00.22.33:555][258]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_NPC.Paper2D_NPC_C' ref from Metadata '/Game/Blueprints/Character/Paper2D_Enemy.PackageMetaData'
+[2019.03.11-00.22.33:555][258]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_NPC.Paper2D_NPC:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Character/Paper2D_Enemy.PackageMetaData'
+[2019.03.11-00.22.33:555][258]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_NPC.Paper2D_NPC:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Character/Paper2D_Enemy.PackageMetaData'
+[2019.03.11-00.22.33:555][258]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_NPC.Paper2D_NPC:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Character/Paper2D_Enemy.PackageMetaData'
+[2019.03.11-00.22.33:555][258]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_NPC.Paper2D_NPC:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Character/Paper2D_Enemy.PackageMetaData'
+[2019.03.11-00.22.33:586][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_NPC" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_NPC.uasset" SILENT=true
+[2019.03.11-00.22.33:607][258]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_NPC9FF35584438D2C152A2F969E317543BD.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_NPC.uasset'
+[2019.03.11-00.26.52:909][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-00.27.39:804][540]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-00.27.39:809][540]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Battle_Stage.Battle_Stage
+[2019.03.11-00.27.50:989][540]LogSlate: Window 'Save Content' being destroyed
+[2019.03.11-00.27.51:302][540]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_DefaultDB4DE3C84540EA6BF87DCB98D4534B21.tmp' to '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.11-00.27.51:341][540]LogFileHelpers: Saving map 'Minimal_Default' took 0.347
+[2019.03.11-00.27.51:342][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.03.11-00.27.51:370][540]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_Default_BuiltData55CF9B604FF555448163448D506728DB.tmp' to '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.03.11-00.27.51:378][540]Cmd: MAP LOAD FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.11-00.27.51:379][540]LightingResults: New page: Lighting Build
+[2019.03.11-00.27.51:379][540]LoadErrors: New page: Loading map: Battle_Stage.umap
+[2019.03.11-00.27.51:380][540]MapCheck: New page: Map Check
+[2019.03.11-00.27.51:380][540]LightingResults: New page: Lighting Build
+[2019.03.11-00.27.51:531][540]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.11-00.27.51:594][540]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.11-00.27.51:678][540]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.913ms to complete.
+[2019.03.11-00.27.51:678][540]LogFileHelpers: Loading map 'Battle_Stage' took 0.301
+[2019.03.11-00.32.25:067][439]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Downloads/norway_sprite_walking_by_roseannepage_d2phvar.png)
+[2019.03.11-00.32.25:079][439]LogTexture: Display: Building textures: norway_sprite_walking_by_roseannepage_d2phvar (AutoDXT, 96X128)
+[2019.03.11-00.32.33:647][939]LogTexture: Display: Building textures: norway_sprite_walking_by_roseannepage_d2phvar (BGRA8, 96X128)
+[2019.03.11-00.34.53:089][222]LogSlate: Window 'Extract sprites' being destroyed
+[2019.03.11-00.35.11:876][345]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1
+[2019.03.11-00.35.12:277][346]LogRenderer: Reallocating scene render targets to support 1280x920 Format 10 NumSamples 1 (Frame:1).
+[2019.03.11-00.35.15:766][409]LogSlate: Window 'Save Content' being destroyed
+[2019.03.11-00.36.34:442][103]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Characters/Walk_Down.Walk_Down
+[2019.03.11-00.36.34:728][104]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2019.03.11-00.37.27:712][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Down" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Down.uasset" SILENT=true
+[2019.03.11-00.37.27:725][275]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Down490F42724CC0E39BAB5C1BA2C252AF80.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Down.uasset'
+[2019.03.11-00.37.37:517][856]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.11-00.37.52:805][761]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Characters/Walk_Left.Walk_Left
+[2019.03.11-00.38.39:046][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Left" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Left.uasset" SILENT=true
+[2019.03.11-00.38.39:061][526]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Left0EA4664444E5471A8726BE80169D9DF4.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Left.uasset'
+[2019.03.11-00.38.59:306][727]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Characters/Walk_Right.Walk_Right
+[2019.03.11-00.39.24:320][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.038
+[2019.03.11-00.39.24:324][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_0] ([1] browsable assets)...
+[2019.03.11-00.39.24:333][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_0.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_0]
+[2019.03.11-00.39.24:334][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_0]
+[2019.03.11-00.39.24:347][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannD5BD7BED4AC455B60A9119B418094920.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_0_Auto2.uasset'
+[2019.03.11-00.39.24:349][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar] ([1] browsable assets)...
+[2019.03.11-00.39.24:351][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar.norway_sprite_walking_by_roseannepage_d2phvar]
+[2019.03.11-00.39.24:351][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar]
+[2019.03.11-00.39.24:362][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann67A91DE6497D7D0A0E7EA7B0DB2BC844.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Auto2.uasset'
+[2019.03.11-00.39.24:364][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1] ([1] browsable assets)...
+[2019.03.11-00.39.24:374][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1]
+[2019.03.11-00.39.24:374][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1]
+[2019.03.11-00.39.24:385][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann696BC6834FD0F6808767D3B3D8A4F0A5.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1_Auto2.uasset'
+[2019.03.11-00.39.24:388][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_2] ([1] browsable assets)...
+[2019.03.11-00.39.24:398][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_2.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_2]
+[2019.03.11-00.39.24:398][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_2]
+[2019.03.11-00.39.24:410][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann755CF8E64CAC186669B6F7875E996F7E.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_2_Auto2.uasset'
+[2019.03.11-00.39.24:412][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_3] ([1] browsable assets)...
+[2019.03.11-00.39.24:423][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_3.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_3]
+[2019.03.11-00.39.24:423][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_3]
+[2019.03.11-00.39.24:435][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann615C73214BF2135C9B644488B6733887.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_3_Auto2.uasset'
+[2019.03.11-00.39.24:437][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_4] ([1] browsable assets)...
+[2019.03.11-00.39.24:448][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_4.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_4]
+[2019.03.11-00.39.24:448][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_4]
+[2019.03.11-00.39.24:462][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannB97EFA2A40A1EAA2CA963C95E3B5C99F.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_4_Auto2.uasset'
+[2019.03.11-00.39.24:464][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_5] ([1] browsable assets)...
+[2019.03.11-00.39.24:473][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_5.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_5]
+[2019.03.11-00.39.24:473][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_5]
+[2019.03.11-00.39.24:498][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann411865914E98E822952608956D2E2689.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_5_Auto2.uasset'
+[2019.03.11-00.39.24:500][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_6] ([1] browsable assets)...
+[2019.03.11-00.39.24:510][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_6.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_6]
+[2019.03.11-00.39.24:510][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_6]
+[2019.03.11-00.39.24:567][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann30748E5A4AA7F6D41AF753A6611D8735.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_6_Auto2.uasset'
+[2019.03.11-00.39.24:569][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_7] ([1] browsable assets)...
+[2019.03.11-00.39.24:579][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_7.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_7]
+[2019.03.11-00.39.24:579][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_7]
+[2019.03.11-00.39.24:593][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann8D7FFB45422CFEC82C305C8B0FB3E52C.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_7_Auto2.uasset'
+[2019.03.11-00.39.24:595][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_8] ([1] browsable assets)...
+[2019.03.11-00.39.24:605][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_8.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_8]
+[2019.03.11-00.39.24:605][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_8]
+[2019.03.11-00.39.24:618][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannE057B2E94CF58DF9E04C27B38247A426.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_8_Auto2.uasset'
+[2019.03.11-00.39.24:620][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_9] ([1] browsable assets)...
+[2019.03.11-00.39.24:630][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_9.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_9]
+[2019.03.11-00.39.24:630][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_9]
+[2019.03.11-00.39.24:644][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann2120BF7048368DD9CF614BBB30CA8147.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_9_Auto2.uasset'
+[2019.03.11-00.39.24:646][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_10] ([1] browsable assets)...
+[2019.03.11-00.39.24:655][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_10.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_10]
+[2019.03.11-00.39.24:655][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_10]
+[2019.03.11-00.39.24:668][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann195C8B0E49592AF96D25DC9F186BA9F4.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_10_Auto2.uasset'
+[2019.03.11-00.39.24:670][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_11] ([1] browsable assets)...
+[2019.03.11-00.39.24:679][217]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_11.norway_sprite_walking_by_roseannepage_d2phvar_Sprite_11]
+[2019.03.11-00.39.24:679][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_11]
+[2019.03.11-00.39.24:692][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann7332D05A428F255A6D9F32881291E24D.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_11_Auto2.uasset'
+[2019.03.11-00.39.24:694][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Idle_Down] ([1] browsable assets)...
+[2019.03.11-00.39.24:703][217]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Characters/Idle_Down.Idle_Down]
+[2019.03.11-00.39.24:703][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Idle_Down]
+[2019.03.11-00.39.24:703][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Down" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Down_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-00.39.24:714][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Down_Auto2F6F3BB2F47560E71F04CD7943FD44E2C.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Down_Auto2.uasset'
+[2019.03.11-00.39.24:716][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Idle_Left] ([1] browsable assets)...
+[2019.03.11-00.39.24:726][217]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Characters/Idle_Left.Idle_Left]
+[2019.03.11-00.39.24:726][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Idle_Left]
+[2019.03.11-00.39.24:726][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Left" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Left_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-00.39.24:737][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Left_Auto2F8FFABEE456765F69B5832B63E0CA9A0.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Left_Auto2.uasset'
+[2019.03.11-00.39.24:739][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Idle_Right] ([1] browsable assets)...
+[2019.03.11-00.39.24:748][217]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Characters/Idle_Right.Idle_Right]
+[2019.03.11-00.39.24:748][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Idle_Right]
+[2019.03.11-00.39.24:748][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Right" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Right_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-00.39.24:765][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Right_Auto24EA0E00846FA66681D388A9BBEB34411.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Right_Auto2.uasset'
+[2019.03.11-00.39.24:767][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Idle_Up] ([1] browsable assets)...
+[2019.03.11-00.39.24:777][217]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Characters/Idle_Up.Idle_Up]
+[2019.03.11-00.39.24:777][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Idle_Up]
+[2019.03.11-00.39.24:777][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Up" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Up_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-00.39.24:788][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Up_Auto2D22723094F3A14D62DE2D1A734A9147A.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Idle_Up_Auto2.uasset'
+[2019.03.11-00.39.24:790][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Walk_Right] ([1] browsable assets)...
+[2019.03.11-00.39.24:800][217]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Characters/Walk_Right.Walk_Right]
+[2019.03.11-00.39.24:800][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Walk_Right]
+[2019.03.11-00.39.24:800][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Right" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Walk_Right_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-00.39.24:819][217]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Right_Auto2A995AEA24E5C44654179EA884E9A427F.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Characters/Walk_Right_Auto2.uasset'
+[2019.03.11-00.39.24:821][217]LogFileHelpers: Auto-saving content packages took 0.501
+[2019.03.11-00.42.56:997][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Right" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Right.uasset" SILENT=true
+[2019.03.11-00.42.57:008][945]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_RightB1BC468E4FA2005463BDF9B0B0D62F84.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Right.uasset'
+[2019.03.11-00.47.23:441][926]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.03.11-00.47.24:034][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-00.47.26:034][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.03.11-00.48.11:790][789]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.03.11-00.48.11:817][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-00.48.12:769][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.03.11-00.48.19:950][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-00.48.44:208][727]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Characters/Walk_Up.Walk_Up
+[2019.03.11-00.49.10:726][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Up" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Up.uasset" SILENT=true
+[2019.03.11-00.49.10:740][309]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Up5AE763544A9097CED4C0459CF3FB41BA.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Up.uasset'
+[2019.03.11-00.49.55:398][955]LogSlate: Window 'Failed Renames' being destroyed
+[2019.03.11-00.50.12:261][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Down_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Down_02.uasset" SILENT=true
+[2019.03.11-00.50.12:274][956]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Down_0242571C82468F9E2A82DD71B6B959A786.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Down_02.uasset'
+[2019.03.11-00.50.17:973][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Left_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Left_02.uasset" SILENT=true
+[2019.03.11-00.50.17:986][276]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Left_020F4B2C4A4717C2A8F7637F91275960B2.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Left_02.uasset'
+[2019.03.11-00.50.24:342][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Right_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Right_02.uasset" SILENT=true
+[2019.03.11-00.50.24:363][640]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Right_02A91EB01E4130FC3EEA2A989B5737EE4F.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Right_02.uasset'
+[2019.03.11-00.50.31:228][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Walk_Up_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Walk_Up_02.uasset" SILENT=true
+[2019.03.11-00.50.31:243][ 35]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Up_02CA11F4BE4A2628F5728CF7AF7B178B6E.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Walk_Up_02.uasset'
+[2019.03.11-00.50.52:700][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Up_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Up_02.uasset" SILENT=true
+[2019.03.11-00.50.52:715][304]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Up_02D0E86CFB4C75D8F56B2EE989FECF3CE4.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Up_02.uasset'
+[2019.03.11-00.50.52:733][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Down_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Down_02.uasset" SILENT=true
+[2019.03.11-00.50.52:844][304]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Down_02899F5BD14EF83347D6B52CB70A7F040E.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Down_02.uasset'
+[2019.03.11-00.50.52:860][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Left_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Left_02.uasset" SILENT=true
+[2019.03.11-00.50.52:872][304]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Left_02CB9337634A5512E4681A44917D3EFFBF.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Left_02.uasset'
+[2019.03.11-00.50.52:888][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Right_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Right_02.uasset" SILENT=true
+[2019.03.11-00.50.52:901][304]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Right_0291DC1FCD4268F42C0E01D8B08444A77B.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Right_02.uasset'
+[2019.03.11-00.51.04:263][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Down_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Idle_Down_02.uasset" SILENT=true
+[2019.03.11-00.51.04:276][949]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Down_020EE222934321EBEBBC796EB97052F2C4.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Idle_Down_02.uasset'
+[2019.03.11-00.51.10:655][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Left_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Idle_Left_02.uasset" SILENT=true
+[2019.03.11-00.51.10:668][308]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Left_02C074D4474BC8EB1D5B48D9872D093AC5.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Idle_Left_02.uasset'
+[2019.03.11-00.51.16:391][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Right_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Idle_Right_02.uasset" SILENT=true
+[2019.03.11-00.51.16:403][634]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Right_02037AE91B422A544E28931C8BE8525566.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Idle_Right_02.uasset'
+[2019.03.11-00.51.22:611][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Idle_Up_02" FILE="../../../../../Projects/RPGDemo/Content/Characters/Idle_Up_02.uasset" SILENT=true
+[2019.03.11-00.51.22:624][989]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Up_02E6391E0043DD3908126BF08162831902.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/Idle_Up_02.uasset'
+[2019.03.11-00.53.48:697][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Up_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Up_02.uasset" SILENT=true
+[2019.03.11-00.53.48:712][730]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Up_02960DC8A04181FB1C164C329B0DADB378.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Up_02.uasset'
+[2019.03.11-00.53.48:730][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Down_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Down_02.uasset" SILENT=true
+[2019.03.11-00.53.48:744][730]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Down_02349C719D4BA7FFE4CABED39CC8E1B997.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Down_02.uasset'
+[2019.03.11-00.53.48:762][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Left_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Left_02.uasset" SILENT=true
+[2019.03.11-00.53.48:874][730]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Left_02C957567743B53FC53CF0B69CAB436E1C.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Left_02.uasset'
+[2019.03.11-00.53.48:890][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Right_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Right_02.uasset" SILENT=true
+[2019.03.11-00.53.48:902][730]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Right_027531C1C6408822DEB05A6AACF6328D78.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Right_02.uasset'
+[2019.03.11-00.54.01:718][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann501258CE4F8C43011D3DC4A2DB502938.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_0.uasset'
+[2019.03.11-00.54.01:751][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannAD21113C4F7D6F95DC3F99A2BDD21B1E.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_1.uasset'
+[2019.03.11-00.54.01:781][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannC49CA48744F289221435F4BB603B2D77.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_2.uasset'
+[2019.03.11-00.54.01:812][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann64606F8040B17A867297FDAE4AF7F125.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_3.uasset'
+[2019.03.11-00.54.01:846][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann96F655164A4121DCE19BF685DF4F51C9.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_4.uasset'
+[2019.03.11-00.54.01:877][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannE52567B343C841DB4386458FB1895F80.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_5.uasset'
+[2019.03.11-00.54.02:008][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann6FBA5FB24D97ACB932BC108154A14742.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_6.uasset'
+[2019.03.11-00.54.02:041][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannD6552E4D4CB94AD1BE9E04940641D4B7.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_7.uasset'
+[2019.03.11-00.54.02:079][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannAA28ED3543150ECEB47CD09D3EA6C2F7.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_8.uasset'
+[2019.03.11-00.54.02:114][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannFE9C95E546E183908B27A89E24DE2C77.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_9.uasset'
+[2019.03.11-00.54.02:148][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseannE23A075E4806448B9AF65F8BFECD8F67.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_10.uasset'
+[2019.03.11-00.54.02:181][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/norway_sprite_walking_by_roseann91E8DECE41595BFD394E04901C09DB31.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/norway_sprite_walking_by_roseannepage_d2phvar_Sprite_11.uasset'
+[2019.03.11-00.54.03:781][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Down_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Down_02.uasset" SILENT=true
+[2019.03.11-00.54.03:798][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Down_02E677ED664D5B7FF63E3CE0ACF2D5FCA0.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Down_02.uasset'
+[2019.03.11-00.54.03:803][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Down_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Down_02.uasset" SILENT=true
+[2019.03.11-00.54.03:815][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Down_02FF0EB51248B7C9EF464AEDB71BCBDB10.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Down_02.uasset'
+[2019.03.11-00.54.03:819][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Left_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Left_02.uasset" SILENT=true
+[2019.03.11-00.54.03:836][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Left_028D078F774C90E12738801C82567238F0.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Left_02.uasset'
+[2019.03.11-00.54.03:842][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Left_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Left_02.uasset" SILENT=true
+[2019.03.11-00.54.03:857][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Left_0236FF05764537255D2C66BF8E02294B60.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Left_02.uasset'
+[2019.03.11-00.54.03:862][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Right_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Right_02.uasset" SILENT=true
+[2019.03.11-00.54.03:876][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Right_022C3C73AD4C6AA6E7D4EAD3B4CAABF0EB.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Right_02.uasset'
+[2019.03.11-00.54.03:880][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Right_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Right_02.uasset" SILENT=true
+[2019.03.11-00.54.03:895][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Right_02E073DD1745F48F61B28B1C9E9ED4F653.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Right_02.uasset'
+[2019.03.11-00.54.03:899][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Walk_Up_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Up_02.uasset" SILENT=true
+[2019.03.11-00.54.03:913][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Walk_Up_0289DAD5474FDD60E7D7D503B425F6565A.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Walk_Up_02.uasset'
+[2019.03.11-00.54.03:917][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/Idle_Up_02" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Up_02.uasset" SILENT=true
+[2019.03.11-00.54.03:932][457]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Idle_Up_02FE27F72049CAB47ABED7EBB50E197733.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Anims/Idle_Up_02.uasset'
+[2019.03.11-00.57.08:986][554]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Blueprints/Anims/Walk_Down_02.Walk_Down_02
+[2019.03.11-00.57.18:620][944]LogSlate: Window 'Save Content' being destroyed
+[2019.03.11-00.57.30:287][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.03.11-00.57.31:781][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-00.58.16:318][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-00.58.16:375][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.034
+[2019.03.11-00.58.16:377][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Paper2D_NPC] ([1] browsable assets)...
+[2019.03.11-00.58.16:377][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Paper2D_NPC]
+[2019.03.11-00.58.16:377][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_NPC" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Character/Paper2D_NPC_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-00.58.16:410][401]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_NPC_Auto30EECFECE4E24A0A09A9CB5AD6FF028AC.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Character/Paper2D_NPC_Auto3.uasset'
+[2019.03.11-00.58.16:413][401]LogFileHelpers: Auto-saving content packages took 0.036
+[2019.03.11-01.01.11:637][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-01.01.17:010][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-01.01.33:517][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-01.02.05:382][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.08.16:585][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.029
+[2019.03.11-01.08.16:587][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Paper2D_NPC] ([1] browsable assets)...
+[2019.03.11-01.08.16:587][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Paper2D_NPC]
+[2019.03.11-01.08.16:587][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_NPC" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Character/Paper2D_NPC_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-01.08.16:927][502]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_NPC_Auto4AE787A9F444D20C79B6CD5ABBFB53224.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Character/Paper2D_NPC_Auto4.uasset'
+[2019.03.11-01.08.16:928][502]LogFileHelpers: Auto-saving content packages took 0.342
+[2019.03.11-01.14.51:299][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.03.11-01.14.53:979][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.15.03:741][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.03.11-01.15.05:925][562]Cmd: DELETE
+[2019.03.11-01.15.05:925][562]Cmd: ACTOR DELETE
+[2019.03.11-01.15.05:928][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.11-01.15.05:966][562]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.03.11-01.15.07:185][683]LogEditorViewport: Clicking on Actor (LMB): Random_Encounter_C (Random_Encounter)
+[2019.03.11-01.15.13:273][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.15.13:411][234]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.11-01.15.47:999][  0]LogEditorTransaction: Undo Delete current selection
+[2019.03.11-01.16.12:284][824]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.16.13:138][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-01.16.13:186][887]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter625E4B514EA3A683E19E88B4B642CA15.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-01.16.49:192][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-01.16.49:224][185]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterED829CA346F277CE3FC9CDB7BB8409A8.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-01.17.01:481][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.17.20:469][678]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Spawner_BP.Spawner_BP
+[2019.03.11-01.17.59:209][108]LogEditorTransaction: Undo Delete current selection
+[2019.03.11-01.17.59:975][191]LogEditorTransaction: Undo Move Nodes
+[2019.03.11-01.18.00:562][257]LogEditorTransaction: Undo Paste clipboard contents
+[2019.03.11-01.19.38:942][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.20.18:405][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.20.25:282][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.20.48:326][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.21.02:771][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.21.19:077][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.21.37:953][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.22.33:736][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.22.40:231][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.23.26:669][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.11-01.23.26:700][851]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_Auto5AE19DA65431D026BE2B40F85086A5F50.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto5.umap'
+[2019.03.11-01.23.26:710][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.083
+[2019.03.11-01.23.26:710][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2019.03.11-01.23.26:713][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Game/Random_Encounter] ([1] browsable assets)...
+[2019.03.11-01.23.26:737][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter]
+[2019.03.11-01.23.26:737][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/Random_Encounter]
+[2019.03.11-01.23.26:737][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-01.23.26:886][851]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter_Auto56D5160F840435DF163937780AE743540.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto5.uasset'
+[2019.03.11-01.23.26:889][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/Paper2D_NPC] ([1] browsable assets)...
+[2019.03.11-01.23.26:889][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Paper2D_NPC]
+[2019.03.11-01.23.26:889][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_NPC" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Character/Paper2D_NPC_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-01.23.26:924][851]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_NPC_Auto58908B1774E0CC00CF3525B9F5B1ED720.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Character/Paper2D_NPC_Auto5.uasset'
+[2019.03.11-01.23.26:925][851]LogFileHelpers: Auto-saving content packages took 0.213
+[2019.03.11-01.28.30:460][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.28.31:022][ 77]LogEditorTransaction: Undo Delete current selection
+[2019.03.11-01.28.34:635][484]LogEditorTransaction: Undo Move Node
+[2019.03.11-01.28.41:139][250]LogEditorTransaction: Undo Split Struct Pin
+[2019.03.11-01.28.43:353][505]LogEditorTransaction: Undo Move Node
+[2019.03.11-01.28.44:534][642]LogEditorTransaction: Undo Add Node
+[2019.03.11-01.28.45:391][741]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.11-01.28.46:159][829]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.11-01.28.47:237][956]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.11-01.28.57:197][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.29.03:690][743]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.29.04:795][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-01.29.04:852][841]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterB7F841C54FEFE68B02BA8885D0486A51.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-01.29.07:088][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-01.29.07:154][ 37]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage0321782C4A58670B724875B061269442.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.11-01.29.07:204][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.11-01.29.07:240][ 37]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltData09FFEFE349B09D0A5BB6A6A3826A2B68.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.11-01.29.17:903][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.29.36:343][ 56]LogEditorTransaction: Undo Modify Component(s)
+[2019.03.11-01.29.38:789][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.29.47:697][395]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.29.48:710][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-01.29.48:753][478]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter5E683EB24340B50DCB63BABA0EA7CA14.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-01.29.52:740][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.29.55:275][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-01.29.55:340][160]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage16F5421A42EDD19C42E91C9C4F6557A1.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.11-01.29.55:378][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.11-01.29.55:399][160]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltDataB47BEFCF42C2D7B38013B784748FCCAE.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.11-01.30.02:341][962]BlueprintLog: New page: Compile Paper2D_NPC
+[2019.03.11-01.30.02:852][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_NPC" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_NPC.uasset" SILENT=true
+[2019.03.11-01.30.02:883][999]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_NPCED540CCF4F3185F5E6B81BADE711AF81.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_NPC.uasset'
+[2019.03.11-01.30.10:562][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.30.15:762][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.42.25:179][789]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.42.26:396][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-01.42.26:449][884]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter62EBD6E4499765DF626923B2A1AA93C8.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-01.42.46:679][391]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.43.16:887][176]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.43.49:832][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.11-01.43.50:171][739]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_Auto6FFC43006490402FF20CC11AB98DDE6C8.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto6.umap'
+[2019.03.11-01.43.50:175][739]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.377
+[2019.03.11-01.43.50:175][739]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.377
+[2019.03.11-01.43.50:178][739]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Game/Random_Encounter] ([1] browsable assets)...
+[2019.03.11-01.43.50:201][739]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter]
+[2019.03.11-01.43.50:201][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/Random_Encounter]
+[2019.03.11-01.43.50:201][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2019.03.11-01.43.50:244][739]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter_Auto6584735844DDED83BD41E0FB71B3B0A64.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto6.uasset'
+[2019.03.11-01.43.50:245][739]LogFileHelpers: Auto-saving content packages took 0.069
+[2019.03.11-01.47.32:644][709]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.47.45:606][468]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.51.01:348][978]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.51.13:014][658]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.51.55:870][215]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.52.06:011][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.54.07:683][ 13]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.54.14:102][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-01.54.14:267][382]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter4B1C3E974BFB87C81AAE0A8C32D0D2F6.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-01.54.43:349][127]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.56.16:432][688]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.56.32:272][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.59.20:909][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-01.59.42:973][ 10]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-01.59.43:799][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-01.59.43:851][ 43]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter932931A74B2DA7036772BDB4B85359F6.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.00.05:732][355]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.00.48:873][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.01.06:148][964]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.01.14:860][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.01.19:651][758]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.01.28:560][276]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.01.33:324][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.01.49:421][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.02.07:995][618]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.02.15:194][ 32]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.02.19:507][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.02.19:559][272]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter0D6D767244C154F7CE66A0A17656C712.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.02.30:531][929]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.02.38:996][420]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.02.52:724][228]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.02.54:000][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.02.54:043][287]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter7577CEAA48C29AE5E9463598F25A1E5B.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.03.02:083][768]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.03.02:736][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.03.02:780][790]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter1A5C55F54FE87C315F02F58ED3893939.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.03.11:001][282]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.03.11:568][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.03.11:610][299]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter425689384C1791936FA0168B69154075.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.03.27:919][275]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.11-02.03.30:560][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.03.30:692][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-02.03.30:761][438]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_StageF36BAEB04B9A0631CF91A8BC8F991FD5.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.11-02.03.30:802][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.11-02.03.30:842][438]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltData2E2D7F394AD6E3184C0ECCAE93BD5678.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.11-02.03.33:663][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.03.33:746][612]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-02.03.33:863][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-02.03.33:909][612]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 6:03:33 PM)
+[2019.03.11-02.03.33:909][612]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.11-02.03.33:911][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001963s)
+[2019.03.11-02.03.33:912][612]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-02.03.33:912][612]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2019.03.11-02.03.33:913][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.003573s)
+[2019.03.11-02.03.33:960][612]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-02.03.34:022][612]LogInit: FAudioDevice initialized.
+[2019.03.11-02.03.34:065][612]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.11-02.03.34:105][612]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-22.03.34
+[2019.03.11-02.03.34:113][612]LogWorld: Bringing up level for play took: 0.009480
+[2019.03.11-02.03.34:271][612]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 10 classes and 0 folders.
+[2019.03.11-02.03.34:296][612]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.03.11-02.03.34:296][612]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage 1.013
+[2019.03.11-02.03.42:069][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.03.42:106][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.11-02.03.42:136][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.03.42:256][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.11-02.03.46:140][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.03.56:056][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.03.57:823][  5]LogEditorViewport: Clicking on Actor (LMB): Spawner_BP_C (Spawner_BP)
+[2019.03.11-02.03.59:957][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.04.03:397][335]LogEditorActor: Deleted Actor: Spawner_BP_C
+[2019.03.11-02.04.03:431][335]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.03.11-02.04.07:357][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-02.04.07:417][570]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage59D2866C41F5D18DF8F354ACE5ED4537.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.11-02.04.07:454][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.11-02.04.07:476][570]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltData5B4956154A8C67C8E03349A89EEF91E8.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.11-02.04.09:107][668]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-02.04.09:134][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-02.04.09:134][668]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 6:04:09 PM)
+[2019.03.11-02.04.09:134][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.11-02.04.09:136][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001536s)
+[2019.03.11-02.04.09:136][668]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-02.04.09:136][668]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2019.03.11-02.04.09:136][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.002351s)
+[2019.03.11-02.04.09:177][668]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-02.04.09:236][668]LogInit: FAudioDevice initialized.
+[2019.03.11-02.04.09:264][668]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.11-02.04.09:265][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-22.04.09
+[2019.03.11-02.04.09:265][668]LogWorld: Bringing up level for play took: 0.000597
+[2019.03.11-02.04.09:277][668]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.03.11-02.04.09:278][668]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage -0.006
+[2019.03.11-02.04.14:807][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.04.14:844][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.11-02.04.14:880][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.04.14:914][  1]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.11-02.04.31:131][974]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.11-02.04.31:769][ 11]LogEditorViewport: Clicking on Actor (LMB): Random_Encounter_C (Random_Encounter)
+[2019.03.11-02.04.37:699][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.04.43:611][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.05.55:350][ 11]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.06.01:402][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-02.06.01:461][357]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage85CDF9D040F0FB3ACF933F9410EC61E0.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.11-02.06.01:502][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.11-02.06.01:524][357]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltDataD0BF0D9E47393445DAC75D8ECC351585.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.11-02.06.03:639][484]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-02.06.03:668][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-02.06.03:668][484]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 6:06:03 PM)
+[2019.03.11-02.06.03:668][484]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.11-02.06.03:670][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001521s)
+[2019.03.11-02.06.03:671][484]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-02.06.03:671][484]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2019.03.11-02.06.03:671][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.002429s)
+[2019.03.11-02.06.03:746][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-02.06.03:802][484]LogInit: FAudioDevice initialized.
+[2019.03.11-02.06.03:830][484]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.11-02.06.03:831][484]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-22.06.03
+[2019.03.11-02.06.03:831][484]LogWorld: Bringing up level for play took: 0.000654
+[2019.03.11-02.06.03:844][484]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.03.11-02.06.03:844][484]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage 0.561
+[2019.03.11-02.06.05:438][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.06.05:476][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.11-02.06.05:516][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.06.05:545][581]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.11-02.06.11:678][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.06.11:795][956]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-02.06.11:822][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-02.06.11:822][956]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 6:06:11 PM)
+[2019.03.11-02.06.11:822][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.11-02.06.11:824][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2019.03.11-02.06.11:824][956]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-02.06.11:825][956]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2019.03.11-02.06.11:825][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.002405s)
+[2019.03.11-02.06.11:872][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-02.06.11:927][956]LogInit: FAudioDevice initialized.
+[2019.03.11-02.06.11:959][956]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.11-02.06.11:960][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-22.06.11
+[2019.03.11-02.06.11:960][956]LogWorld: Bringing up level for play took: 0.000625
+[2019.03.11-02.06.11:972][956]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.03.11-02.06.11:973][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage 0.689
+[2019.03.11-02.06.12:564][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.06.12:598][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.11-02.06.12:634][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.06.12:669][993]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.11-02.06.21:437][519]LogEditorViewport: Clicking on Actor (LMB): Random_Encounter_C (Random_Encounter)
+[2019.03.11-02.06.33:096][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.11-02.06.37:459][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.06.40:463][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.06.40:513][652]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterAEB266F1449D46542BA521BDA13E8610.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.07.02:429][964]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Spawner_BP.Spawner_BP
+[2019.03.11-02.07.22:947][170]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.11-02.07.27:854][462]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.07.30:298][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.07.30:341][593]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter0D1F98414E640FF4123D36B75551BFB5.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.07.43:389][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-02.07.43:451][371]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_StageDAE5C78643F80717067EB5997C51C9B6.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.11-02.07.43:488][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.11-02.07.43:510][371]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltDataB2995B164CB70E3B06F819AEA25C981C.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.11-02.07.44:775][447]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-02.07.44:808][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-02.07.44:808][447]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 6:07:44 PM)
+[2019.03.11-02.07.44:808][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.11-02.07.44:810][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001531s)
+[2019.03.11-02.07.44:810][447]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-02.07.44:810][447]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.03.11-02.07.44:810][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.002353s)
+[2019.03.11-02.07.44:859][447]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-02.07.44:914][447]LogInit: FAudioDevice initialized.
+[2019.03.11-02.07.44:945][447]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.11-02.07.44:946][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-22.07.44
+[2019.03.11-02.07.44:946][447]LogWorld: Bringing up level for play took: 0.000600
+[2019.03.11-02.07.44:959][447]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage -0.324
+[2019.03.11-02.07.45:048][447]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:048][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:057][448]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:057][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:081][449]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:081][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:099][450]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:099][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:115][451]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:115][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:131][452]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:131][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:148][453]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:148][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:165][454]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:165][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:181][455]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:181][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:198][456]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:198][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:215][457]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:215][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:231][458]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:232][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:248][459]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:248][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:265][460]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:265][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:282][461]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:282][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:298][462]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:299][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:315][463]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Paper2D_NPC_C /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage:PersistentLevel.Paper2D_NPC_C_0
+	Function /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C:ExecuteUbergraph_Paper2D_Character:0138
+[2019.03.11-02.07.45:315][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:332][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:349][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:365][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:382][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:399][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:415][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:431][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:448][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:465][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:482][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:498][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:515][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:532][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:549][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:565][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:583][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:599][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:615][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:631][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:648][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:665][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:681][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:698][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:715][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:732][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:748][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:765][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:782][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:799][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:815][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:832][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:849][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:865][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:882][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:899][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:915][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:932][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:949][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:966][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:982][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.45:998][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:015][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:032][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:048][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:065][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:081][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:098][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:115][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:132][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:148][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:165][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:182][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:198][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:215][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:232][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:249][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:265][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:282][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:299][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:315][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:332][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:348][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:365][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:382][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:398][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:415][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:432][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:449][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:465][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  Paper2D_Character Function:  Execute Ubergraph Paper 2D Character Graph:  EventGraph Node:  Branch
+[2019.03.11-02.07.46:466][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.07.46:506][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.11-02.07.46:543][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.07.46:581][534]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.11-02.07.55:663][ 78]LogEditorViewport: Clicking on Actor (LMB): Random_Encounter_C (Random_Encounter)
+[2019.03.11-02.07.59:328][295]LogEditorViewport: Clicking on Actor (LMB): Random_Encounter_C (Random_Encounter)
+[2019.03.11-02.08.02:188][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.08.39:492][703]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.08.40:748][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.08.40:791][761]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter3EB845E840DB2D21C70BABAB63D065FB.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.08.48:058][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.11-02.08.48:124][194]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage1B4EC4BF4B8FE1EB20A4248E1FB85795.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.11-02.08.48:161][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.11-02.08.48:282][194]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltData834BBA1F4E4F741B08A8FCB5039C5315.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.11-02.08.49:516][268]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-02.08.49:546][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-02.08.49:547][268]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 6:08:49 PM)
+[2019.03.11-02.08.49:547][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.11-02.08.49:548][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001545s)
+[2019.03.11-02.08.49:549][268]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-02.08.49:549][268]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2019.03.11-02.08.49:549][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.002352s)
+[2019.03.11-02.08.49:623][268]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-02.08.49:676][268]LogInit: FAudioDevice initialized.
+[2019.03.11-02.08.49:706][268]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.11-02.08.49:707][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-22.08.49
+[2019.03.11-02.08.49:707][268]LogWorld: Bringing up level for play took: 0.000575
+[2019.03.11-02.08.49:720][268]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage 0.437
+[2019.03.11-02.08.54:515][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.08.54:555][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.11-02.08.54:593][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.08.54:631][557]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.11-02.08.55:131][587]Cmd: SELECT NONE
+[2019.03.11-02.09.00:921][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.09.42:169][402]BlueprintLog: New page: Compile Paper2D_NPC
+[2019.03.11-02.10.05:061][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_NPC" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_NPC.uasset" SILENT=true
+[2019.03.11-02.10.05:091][756]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_NPCC63634BB42A6A6BB0558019F51F8E0D5.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_NPC.uasset'
+[2019.03.11-02.10.08:624][968]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-02.10.08:651][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-02.10.08:651][968]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 6:10:08 PM)
+[2019.03.11-02.10.08:651][968]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.11-02.10.08:653][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001559s)
+[2019.03.11-02.10.08:654][968]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.11-02.10.08:654][968]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2019.03.11-02.10.08:654][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.002383s)
+[2019.03.11-02.10.08:700][968]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.11-02.10.08:756][968]LogInit: FAudioDevice initialized.
+[2019.03.11-02.10.08:783][968]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.11-02.10.08:784][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-22.10.08
+[2019.03.11-02.10.08:784][968]LogWorld: Bringing up level for play took: 0.000594
+[2019.03.11-02.10.08:797][968]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage -0.486
+[2019.03.11-02.10.12:161][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.10.12:199][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.11-02.10.12:237][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.11-02.10.12:267][171]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.03.11-02.10.18:201][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-02.10.36:656][629]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.10.37:155][629]LogBlueprint: Error: [Compiler Random_Encounter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2019.03.11-02.10.37:349][629]LogBlueprint: Warning: [Compiler Random_Encounter] [7181.50] Compile of Random_Encounter failed. 1 Fatal Issue(s) 0 Warning(s) [in 692 ms] (/Game/Blueprints/Game/Random_Encounter.Random_Encounter)
+[2019.03.11-02.10.37:789][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.10.37:831][653]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterD2F643AE45D021E7534D5D9EE3557DBD.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.11.03:492][177]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.11-02.11.04:518][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.11.04:561][224]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter863719344C7492FBEE66DB94CEBBF456.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.11.47:838][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.11.48:176][819]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter14A5404F4E1FA97CA93821AEBAD9F51E.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.12.04:203][759]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_PlayerTUrn.Paper2D_PlayerTUrn_C' ref from Metadata '/Game/Blueprints/Character/Paper2D_NPC.PackageMetaData'
+[2019.03.11-02.12.04:203][759]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_PlayerTUrn.SKEL_Paper2D_PlayerTUrn_C' ref from Metadata '/Game/Blueprints/Character/Paper2D_NPC.PackageMetaData'
+[2019.03.11-02.12.04:203][759]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_PlayerTUrn.Paper2D_PlayerTUrn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/Paper2D_NPC.PackageMetaData'
+[2019.03.11-02.12.04:203][759]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_PlayerTUrn.Paper2D_PlayerTUrn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Character/Paper2D_NPC.PackageMetaData'
+[2019.03.11-02.12.04:203][759]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_PlayerTUrn.Paper2D_PlayerTUrn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Character/Paper2D_NPC.PackageMetaData'
+[2019.03.11-02.12.04:203][759]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_PlayerTUrn.Paper2D_PlayerTUrn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Character/Paper2D_NPC.PackageMetaData'
+[2019.03.11-02.12.04:203][759]LogMetaData: Removing '/Game/Blueprints/Character/Paper2D_PlayerTUrn.Paper2D_PlayerTUrn:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Character/Paper2D_NPC.PackageMetaData'
+[2019.03.11-02.12.04:224][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_PlayerTUrn" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_PlayerTUrn.uasset" SILENT=true
+[2019.03.11-02.12.04:243][759]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_PlayerTUrnF97FD0AC4ED8352B800CCD97AD148172.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_PlayerTUrn.uasset'
+[2019.03.11-02.12.04:543][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.11-02.12.04:584][759]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter3C07883B4C2B48E6041AF58E765F6D06.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.11-02.12.11:424][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_PlayerTUrn" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_PlayerTUrn.uasset" SILENT=true
+[2019.03.11-02.12.14:049][165]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.587 s
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: 
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/Character/Paper2D_PlayerTUrn.Paper2D_PlayerTUrn to /Game/Blueprints/Character/Paper2D_PlayerTurn.Paper2D_PlayerTurn! Returning None instead
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: Stack: 
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e04471f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0180c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e019b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e09f2ca4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0d2d893 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0d3df57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0a367f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0d3d963 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0b52f39 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0cd5076 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0cd5295 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0b5572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0b52c33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0cd5076 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0c62cc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0cd5295 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0b5572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0c64a42 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0c6134b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b5db6bfa UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b5db6542 UE4Editor-Engine.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0caf06d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0cd9138 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8e0cbea65 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b45aecd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b45af640 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b45f2e13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b45ef60b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b4ecda43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b49aab44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b49a9441 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8b49c0878 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a64ed07a UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a64b5d0d UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a64fb3b7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a54a05c5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a550c64d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a555d8e4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a547a23d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8a545dcb9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8dfbc64b2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8dfb99619 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8dfba6081 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8dfba785b UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8dfb24d5d UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8df9170ac UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8df99606c UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:049][165]LogOutputDevice: Error: [Callstack] 0x00007ff8df989846 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff8edb7ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff8edb70270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff8edb7f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff8edb6c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff926656d41 USER32.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff926656713 USER32.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff8edb80646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff79a8254e5 UE4Editor.exe!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff79a835b3c UE4Editor.exe!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff79a835bba UE4Editor.exe!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff79a843dac UE4Editor.exe!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff79a845aaa UE4Editor.exe!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff928fa3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: [Callstack] 0x00007ff929223691 ntdll.dll!UnknownFunction []
+[2019.03.11-02.12.14:050][165]LogOutputDevice: Error: 
+[2019.03.11-02.12.14:072][165]LogStats:                SubmitErrorReport -  0.021 s

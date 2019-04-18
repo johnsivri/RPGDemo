@@ -1,0 +1,1156 @@
+﻿Log file open, 03/10/19 16:38:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RPGDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.385826
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.265s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE4/UE4_Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.10-20.38.13:045][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.10-20.38.13:045][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.10-20.38.13:078][  0]LogHAL: Display: Platform has ~ 8 GB [8505778176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.10-20.38.13:078][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.10-20.38.13:078][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.10-20.38.13:079][  0]LogInit: Computer: MSI
+[2019.03.10-20.38.13:079][  0]LogInit: User: 00siv
+[2019.03.10-20.38.13:079][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.10-20.38.13:079][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.03.10-20.38.13:080][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.10-20.38.13:080][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.10-20.38.13:080][  0]LogMemory: Process Physical Memory: 100.89 MB used, 100.89 MB peak
+[2019.03.10-20.38.13:080][  0]LogMemory: Process Virtual Memory: 89.63 MB used, 89.63 MB peak
+[2019.03.10-20.38.13:080][  0]LogMemory: Physical Memory: 5039.23 MB used,  3072.51 MB free, 8111.74 MB total
+[2019.03.10-20.38.13:080][  0]LogMemory: Virtual Memory: 4644.14 MB used,  3072.51 MB free, 134217728.00 MB total
+[2019.03.10-20.38.13:616][  0]LogInit: Using OS detected language (en-US).
+[2019.03.10-20.38.13:616][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.10-20.38.13:619][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.10-20.38.14:463][  0]LogStreaming: Display: Took  0.848s to InitEngineTextLocalization.
+[2019.03.10-20.38.14:463][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.10-20.38.14:529][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.10-20.38.14:529][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.10-20.38.15:254][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.10-20.38.15:254][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.10-20.38.15:399][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.03.10-20.38.15:399][  0]LogD3D11RHI:       4021/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.10-20.38.15:418][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.10-20.38.15:418][  0]LogD3D11RHI:       128/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.10-20.38.15:424][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.10-20.38.15:424][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.10-20.38.15:424][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.10-20.38.15:468][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.10-20.38.15:468][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.03.10-20.38.15:468][  0]LogWindows: EnumDisplayDevices:
+[2019.03.10-20.38.15:469][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.10-20.38.15:469][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.10-20.38.15:470][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.10-20.38.15:471][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.10-20.38.15:471][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.03.10-20.38.15:471][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.10-20.38.15:471][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.10-20.38.15:471][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.03.10-20.38.15:575][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.10-20.38.15:610][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.10-20.38.15:612][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../Projects/RPGDemo/Intermediate/Shaders/WorkingDirectory/15136/).
+[2019.03.10-20.38.15:613][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/00siv/AppData/Local/Temp/UnrealShaderWorkingDir/0EFC77754FE8B7B8E023CA91C8E2C7D6/'.
+[2019.03.10-20.38.16:244][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.10-20.38.16:282][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.10-20.38.16:317][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.10-20.38.16:353][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.10-20.38.16:389][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.10-20.38.16:425][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.10-20.38.16:460][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.10-20.38.16:498][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.10-20.38.16:514][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:746][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.10-20.38.16:749][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.10-20.38.16:859][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.10-20.38.16:859][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.10-20.38.16:927][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.10-20.38.16:927][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.10-20.38.16:963][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.10-20.38.16:997][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.10-20.38.17:033][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.10-20.38.17:072][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.10-20.38.17:097][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.10-20.38.17:097][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.10-20.38.17:238][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.03.10-20.38.19:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.10-20.38.19:319][  0]LogDerivedDataCache: Loaded boot cache 0.13s 71MB C:/Users/00siv/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.10-20.38.19:320][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/00siv/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.10-20.38.19:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/RPGDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.10-20.38.19:320][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.10-20.38.19:321][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/RPGDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.10-20.38.19:321][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.10-20.38.19:352][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.10-20.38.19:365][  0]LogDerivedDataCache: Using Local data cache path C:/Users/00siv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.10-20.38.19:365][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.10-20.38.19:365][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.10-20.38.19:415][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.10-20.38.19:418][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.10-20.38.19:420][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.10-20.38.19:585][  0]LogAssetRegistry: FAssetRegistry took 0.0342 seconds to start up
+[2019.03.10-20.38.20:471][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.10-20.38.20:815][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.10-20.38.20:823][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.10-20.38.20:823][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.10-20.38.20:823][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.10-20.38.20:823][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.10-20.38.20:868][  0]LogNetVersion: RPGDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4234545947)
+[2019.03.10-20.38.22:239][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.282736 seconds
+[2019.03.10-20.38.22:255][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.10-20.38.22:255][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.10-20.38.22:255][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.10-20.38.30:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.10-20.38.30:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.10-20.38.32:570][  0]SourceControl: Source control is disabled
+[2019.03.10-20.38.32:571][  0]SourceControl: Source control is disabled
+[2019.03.10-20.38.32:740][  0]SourceControl: Source control is disabled
+[2019.03.10-20.38.32:799][  0]SourceControl: Source control is disabled
+[2019.03.10-20.38.35:406][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.10-20.38.35:997][  0]LogOcInput: OculusInput pre-init called
+[2019.03.10-20.38.36:998][  0]LogEngine: Initializing Engine...
+[2019.03.10-20.38.37:039][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.10-20.38.37:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.019 s
+[2019.03.10-20.38.37:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.10-20.38.37:103][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.10-20.38.37:103][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.10-20.38.39:047][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.10-20.38.39:275][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.10-20.38.39:452][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-20.38.39:855][  0]LogInit: FAudioDevice initialized.
+[2019.03.10-20.38.39:855][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.10-20.38.39:939][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/00siv/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.10-20.38.39:961][  0]LogInit: Texture streaming: Enabled
+[2019.03.10-20.38.40:144][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.10-20.38.40:256][  0]LogInit: Transaction tracking system initialized
+[2019.03.10-20.38.40:644][  0]BlueprintLog: New page: Editor Load
+[2019.03.10-20.38.42:541][  0]LocalizationService: Localization service is disabled
+[2019.03.10-20.38.46:680][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.10-20.38.46:680][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.10-20.38.46:726][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Content/' took 0.03s
+[2019.03.10-20.38.46:726][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.10-20.38.46:726][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.10-20.38.46:726][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.10-20.38.46:726][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.10-20.38.46:726][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.10-20.38.51:804][  0]SourceControl: Source control is disabled
+[2019.03.10-20.38.51:814][  0]Cmd: MAP LOAD FILE="../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.10-20.38.51:815][  0]LightingResults: New page: Lighting Build
+[2019.03.10-20.38.51:872][  0]MapCheck: New page: Map Check
+[2019.03.10-20.38.51:872][  0]LightingResults: New page: Lighting Build
+[2019.03.10-20.38.53:904][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.03.10-20.38.54:114][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.10-20.38.54:177][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.10-20.38.54:355][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 177.499ms to complete.
+[2019.03.10-20.38.54:355][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.541
+[2019.03.10-20.38.55:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.38.56:024][  0]LogCollectionManager: Loaded 0 collections in 0.002727 seconds
+[2019.03.10-20.38.56:124][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Saved/Collections/' took 0.01s
+[2019.03.10-20.38.56:124][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Content/Developers/00siv/Collections/' took 0.01s
+[2019.03.10-20.38.56:125][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/Projects/RPGDemo/Content/Collections/' took 0.01s
+[2019.03.10-20.38.56:125][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.10-20.38.56:149][  0]LogContentBrowser: Native class hierarchy populated in 0.0253 seconds. Added 2572 classes and 603 folders.
+[2019.03.10-20.38.56:241][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.10-20.38.58:390][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.10-20.38.58:475][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.03.10-20.38.58:875][  0]LogSlate: Took 0.028937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.10-20.38.58:924][  0]LogSlate: Took 0.039847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.10-20.38.58:973][  0]LogSlate: Took 0.024183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.10-20.38.59:527][  0]LogRenderer: Reallocating scene render targets to support 1112x604 Format 10 NumSamples 1 (Frame:1).
+[2019.03.10-20.39.00:518][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.10-20.39.00:518][  0]LogLoad: (Engine Initialization) Total time: 51.33 seconds
+[2019.03.10-20.39.00:519][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.10-20.39.00:540][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.10-20.39.00:676][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.10-20.39.00:857][  1]LogRenderer: Reallocating scene render targets to support 1112x616 Format 10 NumSamples 1 (Frame:2).
+[2019.03.10-20.39.01:170][  4]LogAssetRegistry: Asset discovery search completed in 41.6070 seconds
+[2019.03.10-20.39.01:175][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.10-20.39.01:175][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000155 seconds (updated 0 objects)
+[2019.03.10-20.39.01:236][  4]LogSlate: Took 0.032384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.10-20.39.19:425][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.39.50:146][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.39.55:450][112]MapCheck: New page: Map Check
+[2019.03.10-20.39.55:505][112]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.10-20.39.55:506][112]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.10-20.39.55:829][112]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2019.03.10-20.39.55:882][112]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2019.03.10-20.39.55:896][112]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.03.10-20.39.55:911][112]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.03.10-20.40.01:637][112]TextureStreamingBuild: Display: Compiling optional shaders took 5.821 seconds.
+[2019.03.10-20.40.01:817][112]LogLevel: Display: Export Material TexCoord Scales took 0.179 seconds.
+[2019.03.10-20.40.01:868][112]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2019.03.10-20.40.01:975][112]LightingResults: New page: Lighting Build - Mar 10, 2019, 12:40:01 PM
+[2019.03.10-20.40.02:207][112]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.10-20.40.02:590][112]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.10-20.40.02:616][112]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.10-20.40.04:170][112]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.10-20.40.04:170][112]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15136
+[2019.03.10-20.40.08:959][112]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.03.10-20.40.08:959][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.10-20.40.08:959][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.10-20.40.08:959][112]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.10-20.40.08:959][112]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.10-20.40.08:959][112]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.10-20.40.09:278][112]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.10-20.40.09:278][112]MapCheck: New page: Minimal_Default - Mar 10, 2019, 12:40:09 PM
+[2019.03.10-20.40.09:279][112]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.03.10-20.40.09:522][112]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 244.12ms to complete.
+[2019.03.10-20.40.09:546][112]LogEditorBuildUtils: Build time 0:14
+[2019.03.10-20.40.13:171][128]Job is a success!
+[2019.03.10-20.40.13:518][129]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.10-20.40.13:641][129]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2019.03.10-20.40.13:641][129]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.10-20.40.13:641][129]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2019.03.10-20.40.13:641][129]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.10-20.40.13:641][129]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2019.03.10-20.40.13:642][129]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2019.03.10-20.40.13:642][129]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2019.03.10-20.40.13:755][129]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.03.10-20.40.13:755][129]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.03.10-20.40.13:755][129]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.03.10-20.40.13:755][129]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.03.10-20.40.13:755][129]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.03.10-20.40.13:756][129]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.03.10-20.40.13:756][129]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.03.10-20.40.13:756][129]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2019.03.10-20.40.13:827][129]Lightmass on MSI: 2.18 sec total, 359 ms importing, 36 ms setup, 396 ms photons, 1.32 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 9.09 sec total, 588 ms processing.
+[2019.03.10-20.40.13:897][129]LogStaticLightingSystem: Illumination: 11.6 sec (38 ms encoding lightmaps, 39 ms encoding shadowmaps)
+[2019.03.10-20.40.13:897][129]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.10-20.40.13:897][129]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.10-20.40.18:936][129]DumpUnbuiltLightIteractions
+[2019.03.10-20.40.18:936][129]Lights with unbuilt interactions: 0
+[2019.03.10-20.40.18:936][129]
+[2019.03.10-20.40.18:936][129]Primitives with unbuilt interactions: 0
+[2019.03.10-20.40.19:087][130]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.10-20.40.19:088][130]MapCheck: New page: Minimal_Default - Mar 10, 2019, 12:40:19 PM
+[2019.03.10-20.40.19:260][130]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.116ms to complete.
+[2019.03.10-20.40.21:737][144]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.40.21:741][144]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.40.25:076][324]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.40.25:083][324]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/World_Stage.World_Stage
+[2019.03.10-20.40.26:824][324]LogSlate: Window 'Save Content' being destroyed
+[2019.03.10-20.40.28:021][324]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_Default2F1A6F7244269EA0E26B43B24BB5994D.tmp' to '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.28:023][324]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2019.03.10-20.40.28:525][324]LogFileManager: Error: Error deleting file '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2019.03.10-20.40.28:525][324]LogSavePackage: Error: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.28:601][324]EditorErrors: New page: Save Output
+[2019.03.10-20.40.28:601][324]EditorErrors: Warning: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.28:612][324]LogFileHelpers: Saving map 'Minimal_Default' took 1.778
+[2019.03.10-20.40.39:074][324]LogSlate: Window 'Message' being destroyed
+[2019.03.10-20.40.39:532][324]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_Default9CFD8F5947B3C658E07E3A8EE3465C63.tmp' to '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.39:534][324]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2019.03.10-20.40.40:036][324]LogFileManager: Error: Error deleting file '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2019.03.10-20.40.40:036][324]LogSavePackage: Error: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.40:048][324]EditorErrors: New page: Save Output
+[2019.03.10-20.40.40:048][324]EditorErrors: Warning: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.40:050][324]LogFileHelpers: Saving map 'Minimal_Default' took 0.972
+[2019.03.10-20.40.40:682][324]LogSlate: Window 'Message' being destroyed
+[2019.03.10-20.40.41:115][324]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_DefaultA6B73E644000A092E5205A9EAA1544F9.tmp' to '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.41:116][324]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2019.03.10-20.40.41:618][324]LogFileManager: Error: Error deleting file '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2019.03.10-20.40.41:618][324]LogSavePackage: Error: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.41:630][324]EditorErrors: New page: Save Output
+[2019.03.10-20.40.41:630][324]EditorErrors: Warning: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.10-20.40.41:632][324]LogFileHelpers: Saving map 'Minimal_Default' took 0.946
+[2019.03.10-20.40.43:017][324]LogSlate: Window 'Message' being destroyed
+[2019.03.10-20.40.43:023][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.03.10-20.40.43:223][324]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Minimal_Default_BuiltData82F20C1B44C49C6B7B70199302CA2672.tmp' to '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.03.10-20.40.43:225][324]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset', retrying in .5s...
+[2019.03.10-20.40.43:727][324]LogFileManager: Error: Error deleting file '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'.
+[2019.03.10-20.40.43:727][324]LogSavePackage: Error: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.03.10-20.40.48:685][324]LogSlate: Window 'Message' being destroyed
+[2019.03.10-20.40.48:690][324]EditorErrors: New page: Save Output
+[2019.03.10-20.40.48:691][324]EditorErrors: Warning: Error saving '../../../../../Projects/RPGDemo/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.03.10-20.40.49:996][324]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.03.10-20.40.50:003][324]Cmd: MAP LOAD FILE="../../../../../Projects/RPGDemo/Content/Maps/World_Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.10-20.40.50:009][324]LightingResults: New page: Lighting Build
+[2019.03.10-20.40.50:011][324]LoadErrors: New page: Loading map: World_Stage.umap
+[2019.03.10-20.40.50:039][324]MapCheck: New page: Map Check
+[2019.03.10-20.40.50:039][324]LightingResults: New page: Lighting Build
+[2019.03.10-20.40.50:274][324]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.10-20.40.50:401][324]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.10-20.40.50:553][324]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 151.364ms to complete.
+[2019.03.10-20.40.50:555][324]LogFileHelpers: Loading map 'World_Stage' took 0.554
+[2019.03.10-20.40.54:700][531]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.40.54:706][531]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.41.01:820][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.41.14:213][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:213][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter_C' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:213][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:213][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:213][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:213][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.SKEL_Random_Battle_Encounter_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:213][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.SKEL_Random_Battle_Encounter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:214][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.SKEL_Random_Battle_Encounter_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:214][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.SKEL_Random_Battle_Encounter_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:214][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.SKEL_Random_Battle_Encounter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:214][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.SKEL_Random_Battle_Encounter_C' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:214][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Random_Battle_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.Random_Encounter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.Random_Encounter_C' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.SKEL_Random_Encounter_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.SKEL_Random_Encounter_C:RandomEncounters' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.SKEL_Random_Encounter_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.SKEL_Random_Encounter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.SKEL_Random_Encounter_C' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.Random_Encounter_C:RandomEncounters' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.Random_Encounter_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.Random_Encounter_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:236][664]LogMetaData: Removing '/Game/Blueprints/Game/Random_Encounter.Random_Encounter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Random_Encounter.PackageMetaData'
+[2019.03.10-20.41.14:295][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Battle_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Battle_Encounter.uasset" SILENT=true
+[2019.03.10-20.41.14:324][664]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Battle_EncounterC0681BF242A1381A265136B790B5245F.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Battle_Encounter.uasset'
+[2019.03.10-20.41.14:336][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.10-20.41.14:397][664]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterB12FEAF84E5BA28707C602A35355CFD3.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.10-20.41.26:078][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.41.26:211][275]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.41.26:302][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.41.26:375][275]PIE: New page: PIE session: World_Stage (Mar 10, 2019, 12:41:26 PM)
+[2019.03.10-20.41.26:375][275]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World_Stage
+[2019.03.10-20.41.26:407][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031590s)
+[2019.03.10-20.41.26:408][275]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.41.26:409][275]LogPlayLevel: PIE: World Init took: (0.001565s)
+[2019.03.10-20.41.26:410][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World_Stage.World_Stage to /Game/Maps/UEDPIE_0_World_Stage.World_Stage (0.034482s)
+[2019.03.10-20.41.26:505][275]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-20.41.26:640][275]LogInit: FAudioDevice initialized.
+[2019.03.10-20.41.26:701][275]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-20.41.26:843][275]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World_Stage.World_Stage up for play (max tick rate 60) at 2019.03.10-16.41.26
+[2019.03.10-20.41.26:844][275]LogWorld: Bringing up level for play took: 0.001512
+[2019.03.10-20.41.26:974][275]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2019.03.10-20.41.27:057][275]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World_Stage 0.817
+[2019.03.10-20.41.38:169][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.41.38:220][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.41.38:274][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.41.38:300][917]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.03.10-20.41.42:321][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.03.10-20.41.42:613][161]LogEditorViewport: Clicking on Component (CTRL LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.10-20.41.43:550][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.03.10-20.41.46:034][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.42.01:733][283]Cmd: SELECT NONE
+[2019.03.10-20.42.07:745][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.42.07:829][640]MapCheck: New page: Map Check
+[2019.03.10-20.42.07:858][640]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.10-20.42.07:858][640]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.10-20.42.08:088][640]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicAsset01, compiling. 
+[2019.03.10-20.42.08:102][640]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.03.10-20.42.08:118][640]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.03.10-20.42.12:130][640]TextureStreamingBuild: Display: Compiling optional shaders took 4.050 seconds.
+[2019.03.10-20.42.12:135][640]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2019.03.10-20.42.12:149][640]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2019.03.10-20.42.12:200][640]LightingResults: New page: Lighting Build - Mar 10, 2019, 12:42:12 PM
+[2019.03.10-20.42.12:217][640]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.10-20.42.12:222][640]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.10-20.42.12:222][640]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.10-20.42.12:224][640]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.10-20.42.12:224][640]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15136
+[2019.03.10-20.42.16:803][640]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.03.10-20.42.16:804][640]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.10-20.42.16:804][640]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.10-20.42.16:804][640]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.10-20.42.16:804][640]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.10-20.42.16:804][640]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.10-20.42.16:978][640]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.10-20.42.16:979][640]MapCheck: New page: World_Stage - Mar 10, 2019, 12:42:16 PM
+[2019.03.10-20.42.16:979][640]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.10-20.42.17:139][640]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 160.459ms to complete.
+[2019.03.10-20.42.17:164][640]LogEditorBuildUtils: Build time 0:09
+[2019.03.10-20.42.20:242][726]Job is a success!
+[2019.03.10-20.42.20:347][727]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2019.03.10-20.42.20:347][727]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.10-20.42.20:347][727]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.03.10-20.42.20:347][727]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.10-20.42.20:347][727]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.03.10-20.42.20:347][727]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.03.10-20.42.20:347][727]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.03.10-20.42.20:395][727]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.03.10-20.42.20:395][727]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.03.10-20.42.20:395][727]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.03.10-20.42.20:395][727]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.03.10-20.42.20:395][727]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2019.03.10-20.42.20:395][727]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.03.10-20.42.20:396][727]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X64)
+[2019.03.10-20.42.20:396][727]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.03.10-20.42.20:465][727]Lightmass on MSI: 1.77 sec total, 409 ms importing, 42 ms setup, 412 ms photons, 824 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 5.59 sec total, 410 ms processing.
+[2019.03.10-20.42.20:492][727]LogStaticLightingSystem: Illumination: 8.24 sec (14 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2019.03.10-20.42.20:492][727]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.10-20.42.20:492][727]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.10-20.42.20:813][727]DumpUnbuiltLightIteractions
+[2019.03.10-20.42.20:813][727]Lights with unbuilt interactions: 0
+[2019.03.10-20.42.20:813][727]
+[2019.03.10-20.42.20:813][727]Primitives with unbuilt interactions: 0
+[2019.03.10-20.42.20:897][728]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.10-20.42.20:897][728]MapCheck: New page: World_Stage - Mar 10, 2019, 12:42:20 PM
+[2019.03.10-20.42.21:073][728]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 176.239ms to complete.
+[2019.03.10-20.42.22:228][794]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.42.22:244][794]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-20.42.53:002][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.42.53:119][504]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.42.53:162][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.42.53:163][504]PIE: New page: PIE session: World_Stage (Mar 10, 2019, 12:42:53 PM)
+[2019.03.10-20.42.53:163][504]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World_Stage
+[2019.03.10-20.42.53:166][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003002s)
+[2019.03.10-20.42.53:167][504]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.42.53:167][504]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2019.03.10-20.42.53:167][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World_Stage.World_Stage to /Game/Maps/UEDPIE_0_World_Stage.World_Stage (0.004579s)
+[2019.03.10-20.42.53:251][504]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-20.42.53:418][504]LogInit: FAudioDevice initialized.
+[2019.03.10-20.42.53:454][504]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-20.42.53:456][504]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World_Stage.World_Stage up for play (max tick rate 60) at 2019.03.10-16.42.53
+[2019.03.10-20.42.53:456][504]LogWorld: Bringing up level for play took: 0.001023
+[2019.03.10-20.42.53:473][504]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World_Stage 1.233
+[2019.03.10-20.42.55:326][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.42.55:369][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.42.55:427][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.42.55:458][612]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.03.10-20.42.57:165][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.43.09:699][444]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.10-20.43.11:600][444]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 116 classes and 0 folders.
+[2019.03.10-20.43.14:231][444]LogSlate: Took 0.016421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.10-20.43.14:753][445]LogSlate: Took 0.028599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.10-20.45.50:423][605]LogSlate: Window 'Random_Encounter*' being destroyed
+[2019.03.10-20.45.50:428][605]LogSlate: Window 'Random_Encounter*' being destroyed
+[2019.03.10-20.46.02:929][ 13]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character
+[2019.03.10-20.46.14:435][387]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2019.03.10-20.50.00:821][ 37]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-20.50.00:970][ 37]LogBlueprint: Warning: [Compiler Paper2D_Character] Could not find a variable named "RandomEncounters" in 'Paper2D_Character_C'.
+Make sure 'Paper2D_Character_C' has been compiled for  Set RandomEncounters
+[2019.03.10-20.50.00:970][ 37]LogBlueprint: Warning: [Compiler Paper2D_Character] Could not find a variable named "RandomEncounters" in 'Paper2D_Character_C'.
+Make sure 'Paper2D_Character_C' has been compiled for  Get RandomEncounters
+[2019.03.10-20.50.00:970][ 37]LogBlueprint: Error: [Compiler Paper2D_Character] In use pin  <Unnamed>  no longer exists on node  Start Encounter . Please refresh node or break links to remove pin.
+[2019.03.10-20.50.00:984][ 37]LogBlueprint: Error: [Compiler Paper2D_Character] The property associated with  Random Encounters  could not be found in '/Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C'
+[2019.03.10-20.50.00:985][ 37]LogBlueprint: Error: [Compiler Paper2D_Character] The property associated with  Random Encounters  could not be found in '/Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C'
+[2019.03.10-20.50.01:399][ 37]LogBlueprint: Warning: [Compiler Paper2D_Character] [0712.21] Compile of Paper2D_Character failed. 3 Fatal Issue(s) 2 Warning(s) [in 578 ms] (/Game/Blueprints/Character/Paper2D_Character.Paper2D_Character)
+[2019.03.10-20.50.12:071][392]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-20.50.12:189][392]LogBlueprint: Warning: [Compiler Paper2D_Character] Could not find a variable named "RandomEncounters" in 'Paper2D_Character_C'.
+Make sure 'Paper2D_Character_C' has been compiled for  Set RandomEncounters
+[2019.03.10-20.50.12:190][392]LogBlueprint: Warning: [Compiler Paper2D_Character] Could not find a variable named "RandomEncounters" in 'Paper2D_Character_C'.
+Make sure 'Paper2D_Character_C' has been compiled for  Get RandomEncounters
+[2019.03.10-20.50.12:190][392]LogBlueprint: Error: [Compiler Paper2D_Character] In use pin  <Unnamed>  no longer exists on node  Start Encounter . Please refresh node or break links to remove pin.
+[2019.03.10-20.50.12:204][392]LogBlueprint: Error: [Compiler Paper2D_Character] The property associated with  Random Encounters  could not be found in '/Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C'
+[2019.03.10-20.50.12:205][392]LogBlueprint: Error: [Compiler Paper2D_Character] The property associated with  Random Encounters  could not be found in '/Game/Blueprints/Character/Paper2D_Character.Paper2D_Character_C'
+[2019.03.10-20.50.12:553][392]LogBlueprint: Warning: [Compiler Paper2D_Character] [0723.37] Compile of Paper2D_Character failed. 3 Fatal Issue(s) 2 Warning(s) [in 482 ms] (/Game/Blueprints/Character/Paper2D_Character.Paper2D_Character)
+[2019.03.10-20.50.27:883][899]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-20.50.27:999][899]LogBlueprint: Error: [Compiler Paper2D_Character] In use pin  <Unnamed>  no longer exists on node  Start Encounter . Please refresh node or break links to remove pin.
+[2019.03.10-20.50.28:370][899]LogBlueprint: Warning: [Compiler Paper2D_Character] [0739.18] Compile of Paper2D_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 486 ms] (/Game/Blueprints/Character/Paper2D_Character.Paper2D_Character)
+[2019.03.10-20.50.40:022][297]LogSlate: Took 0.061533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.03.10-20.51.04:743][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_Character" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset" SILENT=true
+[2019.03.10-20.51.04:943][143]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_Character3EF343904CC197C3017ADE8B8332B3C5.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset'
+[2019.03.10-20.51.48:291][825]LogSlate: Took 0.041828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.10-20.52.29:373][442]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-20.52.30:868][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_Character" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset" SILENT=true
+[2019.03.10-20.52.31:073][476]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_CharacterAF594362433F1A40572FC695BC9859A7.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset'
+[2019.03.10-20.52.33:881][586]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-20.52.33:893][586]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-20.52.42:882][110]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character
+[2019.03.10-20.56.15:876][544]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-20.56.17:032][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_Character" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset" SILENT=true
+[2019.03.10-20.56.17:259][559]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_CharacterC4AFBF14493AF7259792868CC041F324.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset'
+[2019.03.10-20.56.23:160][768]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-20.56.23:171][768]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-20.56.29:170][113]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/World_Stage.World_Stage
+[2019.03.10-20.56.30:951][113]LogSlate: Window 'Save Content' being destroyed
+[2019.03.10-20.56.30:960][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.10-20.56.31:037][113]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterA40C41C140890B87F02FA9BF85AA773A.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.10-20.56.31:224][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/World_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-20.56.31:354][113]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/World_Stage8443C2094F8D71980FE21F985F83EAC5.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/World_Stage.umap'
+[2019.03.10-20.56.31:434][113]LogFileHelpers: Saving map 'World_Stage' took 0.390
+[2019.03.10-20.56.31:436][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/World_Stage_BuiltData.uasset" SILENT=true
+[2019.03.10-20.56.31:491][113]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/World_Stage_BuiltData29F8017F404B65EC2FDE09AD922725B0.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/World_Stage_BuiltData.uasset'
+[2019.03.10-20.56.31:517][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/World_Stage_BuiltData.uasset" SILENT=true
+[2019.03.10-20.56.31:556][113]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/World_Stage_BuiltData7FC3E6544FC659B2269725BDAAF918F5.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/World_Stage_BuiltData.uasset'
+[2019.03.10-20.56.31:562][113]Cmd: MAP LOAD FILE="../../../../../Projects/RPGDemo/Content/Maps/World_Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.10-20.56.31:562][113]LightingResults: New page: Lighting Build
+[2019.03.10-20.56.31:564][113]LoadErrors: New page: Loading map: World_Stage.umap
+[2019.03.10-20.56.31:565][113]MapCheck: New page: Map Check
+[2019.03.10-20.56.31:565][113]LightingResults: New page: Lighting Build
+[2019.03.10-20.56.31:678][113]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.56.31:852][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.10-20.56.31:972][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.10-20.56.32:142][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 169.342ms to complete.
+[2019.03.10-20.56.32:144][113]LogFileHelpers: Loading map 'World_Stage' took 0.583
+[2019.03.10-20.56.41:435][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.56.53:805][396]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.10-20.57.52:307][ 90]LogSlate: Window 'Random_Encounter' being destroyed
+[2019.03.10-20.57.52:317][ 90]LogSlate: Window 'Random_Encounter' being destroyed
+[2019.03.10-20.57.57:571][395]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.57.57:625][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.57.57:626][395]PIE: New page: PIE session: World_Stage (Mar 10, 2019, 12:57:57 PM)
+[2019.03.10-20.57.57:626][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World_Stage
+[2019.03.10-20.57.57:629][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003028s)
+[2019.03.10-20.57.57:630][395]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.57.57:631][395]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2019.03.10-20.57.57:631][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World_Stage.World_Stage to /Game/Maps/UEDPIE_0_World_Stage.World_Stage (0.004794s)
+[2019.03.10-20.57.57:724][395]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-20.57.57:854][395]LogInit: FAudioDevice initialized.
+[2019.03.10-20.57.57:887][395]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-20.57.57:889][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World_Stage.World_Stage up for play (max tick rate 60) at 2019.03.10-16.57.57
+[2019.03.10-20.57.57:889][395]LogWorld: Bringing up level for play took: 0.001004
+[2019.03.10-20.57.57:904][395]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World_Stage -0.336
+[2019.03.10-20.58.02:301][656]LogBlueprintUserMessages: [Paper2D_Character_C_0] Battle!
+[2019.03.10-20.58.02:323][657]LogNet: Browse: /Game/Maps/Battle_Stage
+[2019.03.10-20.58.02:323][657]LogLoad: LoadMap: /Game/Maps/Battle_Stage
+[2019.03.10-20.58.03:909][657]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-20.58.03:910][657]LogLoad: Game class is 'GameModeBase'
+[2019.03.10-20.58.03:912][657]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-16.58.03
+[2019.03.10-20.58.03:913][657]LogWorld: Bringing up level for play took: 0.001918
+[2019.03.10-20.58.03:914][657]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.10-20.58.03:974][657]LogLoad: Took 1.651488 seconds to LoadMap(/Game/Maps/Battle_Stage)
+[2019.03.10-20.58.07:078][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.58.07:125][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.58.07:187][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.58.07:215][830]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.03.10-20.58.10:349][ 15]Cmd: SELECT NONE
+[2019.03.10-20.58.25:034][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.58.25:083][897]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.58.25:122][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.58.25:122][897]PIE: New page: PIE session: World_Stage (Mar 10, 2019, 12:58:25 PM)
+[2019.03.10-20.58.25:122][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World_Stage
+[2019.03.10-20.58.25:125][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002627s)
+[2019.03.10-20.58.25:126][897]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.58.25:126][897]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2019.03.10-20.58.25:126][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World_Stage.World_Stage to /Game/Maps/UEDPIE_0_World_Stage.World_Stage (0.004087s)
+[2019.03.10-20.58.25:217][897]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-20.58.25:343][897]LogInit: FAudioDevice initialized.
+[2019.03.10-20.58.25:380][897]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-20.58.25:382][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World_Stage.World_Stage up for play (max tick rate 60) at 2019.03.10-16.58.25
+[2019.03.10-20.58.25:382][897]LogWorld: Bringing up level for play took: 0.001009
+[2019.03.10-20.58.25:397][897]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World_Stage 1.157
+[2019.03.10-20.58.53:110][558]LogBlueprintUserMessages: [Paper2D_Character_C_0] Battle!
+[2019.03.10-20.58.53:127][559]LogNet: Browse: /Game/Maps/Battle_Stage
+[2019.03.10-20.58.53:127][559]LogLoad: LoadMap: /Game/Maps/Battle_Stage
+[2019.03.10-20.58.53:268][559]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-20.58.53:268][559]LogLoad: Game class is 'GameModeBase'
+[2019.03.10-20.58.53:271][559]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-16.58.53
+[2019.03.10-20.58.53:271][559]LogWorld: Bringing up level for play took: 0.001929
+[2019.03.10-20.58.53:272][559]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.10-20.58.53:274][559]LogLoad: Took 0.146357 seconds to LoadMap(/Game/Maps/Battle_Stage)
+[2019.03.10-20.58.56:116][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.58.56:157][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.58.56:219][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.58.56:248][726]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.10-20.58.57:238][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.10-20.59.02:867][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.59.03:002][127]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.59.03:042][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.59.03:042][127]PIE: New page: PIE session: World_Stage (Mar 10, 2019, 12:59:03 PM)
+[2019.03.10-20.59.03:042][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World_Stage
+[2019.03.10-20.59.03:045][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002666s)
+[2019.03.10-20.59.03:046][127]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.59.03:046][127]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2019.03.10-20.59.03:046][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World_Stage.World_Stage to /Game/Maps/UEDPIE_0_World_Stage.World_Stage (0.004116s)
+[2019.03.10-20.59.03:134][127]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-20.59.03:257][127]LogInit: FAudioDevice initialized.
+[2019.03.10-20.59.03:292][127]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-20.59.03:294][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World_Stage.World_Stage up for play (max tick rate 60) at 2019.03.10-16.59.03
+[2019.03.10-20.59.03:294][127]LogWorld: Bringing up level for play took: 0.001064
+[2019.03.10-20.59.03:310][127]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World_Stage 1.07
+[2019.03.10-20.59.08:051][410]LogBlueprintUserMessages: [Paper2D_Character_C_0] Battle!
+[2019.03.10-20.59.08:068][411]LogNet: Browse: /Game/Maps/Battle_Stage
+[2019.03.10-20.59.08:069][411]LogLoad: LoadMap: /Game/Maps/Battle_Stage
+[2019.03.10-20.59.08:206][411]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-20.59.08:207][411]LogLoad: Game class is 'GameModeBase'
+[2019.03.10-20.59.08:209][411]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-16.59.08
+[2019.03.10-20.59.08:210][411]LogWorld: Bringing up level for play took: 0.002012
+[2019.03.10-20.59.08:210][411]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.10-20.59.08:212][411]LogLoad: Took 0.143557 seconds to LoadMap(/Game/Maps/Battle_Stage)
+[2019.03.10-20.59.10:851][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.59.10:901][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.59.10:964][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.59.10:993][567]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.03.10-20.59.19:243][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.59.19:359][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-20.59.19:396][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-20.59.19:396][ 68]PIE: New page: PIE session: World_Stage (Mar 10, 2019, 12:59:19 PM)
+[2019.03.10-20.59.19:396][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World_Stage
+[2019.03.10-20.59.19:399][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002618s)
+[2019.03.10-20.59.19:400][ 68]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-20.59.19:401][ 68]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2019.03.10-20.59.19:401][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World_Stage.World_Stage to /Game/Maps/UEDPIE_0_World_Stage.World_Stage (0.004139s)
+[2019.03.10-20.59.19:489][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-20.59.19:617][ 68]LogInit: FAudioDevice initialized.
+[2019.03.10-20.59.19:654][ 68]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-20.59.19:656][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World_Stage.World_Stage up for play (max tick rate 60) at 2019.03.10-16.59.19
+[2019.03.10-20.59.19:656][ 68]LogWorld: Bringing up level for play took: 0.001021
+[2019.03.10-20.59.19:672][ 68]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World_Stage -0.568
+[2019.03.10-20.59.21:080][151]LogBlueprintUserMessages: [Paper2D_Character_C_0] Battle!
+[2019.03.10-20.59.21:096][152]LogNet: Browse: /Game/Maps/Battle_Stage
+[2019.03.10-20.59.21:096][152]LogLoad: LoadMap: /Game/Maps/Battle_Stage
+[2019.03.10-20.59.21:232][152]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-20.59.21:233][152]LogLoad: Game class is 'GameModeBase'
+[2019.03.10-20.59.21:236][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-16.59.21
+[2019.03.10-20.59.21:236][152]LogWorld: Bringing up level for play took: 0.002214
+[2019.03.10-20.59.21:237][152]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.10-20.59.21:238][152]LogLoad: Took 0.142139 seconds to LoadMap(/Game/Maps/Battle_Stage)
+[2019.03.10-20.59.22:094][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.59.22:137][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-20.59.22:199][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-20.59.22:226][204]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.10-20.59.34:910][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-20.59.38:879][197]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character
+[2019.03.10-21.03.38:546][943]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-21.03.40:051][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_Character" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset" SILENT=true
+[2019.03.10-21.03.40:258][967]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_CharacterF23F47E74FBCB12BE9A7438B5FABD5A2.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset'
+[2019.03.10-21.03.41:505][ 10]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-21.03.41:512][ 10]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-21.03.42:781][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-21.03.42:834][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-21.03.42:835][ 77]PIE: New page: PIE session: World_Stage (Mar 10, 2019, 1:03:42 PM)
+[2019.03.10-21.03.42:835][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_World_Stage
+[2019.03.10-21.03.42:838][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002700s)
+[2019.03.10-21.03.42:839][ 77]LogAIModule: Creating AISystem for world World_Stage
+[2019.03.10-21.03.42:839][ 77]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2019.03.10-21.03.42:839][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/World_Stage.World_Stage to /Game/Maps/UEDPIE_0_World_Stage.World_Stage (0.004314s)
+[2019.03.10-21.03.42:930][ 77]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-21.03.43:053][ 77]LogInit: FAudioDevice initialized.
+[2019.03.10-21.03.43:088][ 77]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-21.03.43:090][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_World_Stage.World_Stage up for play (max tick rate 60) at 2019.03.10-17.03.43
+[2019.03.10-21.03.43:090][ 77]LogWorld: Bringing up level for play took: 0.001060
+[2019.03.10-21.03.43:106][ 77]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_World_Stage 0.866
+[2019.03.10-21.03.54:959][786]LogBlueprintUserMessages: [Paper2D_Character_C_0] Battle!
+[2019.03.10-21.03.54:975][787]LogNet: Browse: /Game/Maps/Battle_Stage
+[2019.03.10-21.03.54:976][787]LogLoad: LoadMap: /Game/Maps/Battle_Stage
+[2019.03.10-21.03.55:121][787]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-21.03.55:121][787]LogLoad: Game class is 'GameModeBase'
+[2019.03.10-21.03.55:124][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-17.03.55
+[2019.03.10-21.03.55:124][787]LogWorld: Bringing up level for play took: 0.001948
+[2019.03.10-21.03.55:125][787]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.10-21.03.55:126][787]LogLoad: Took 0.150202 seconds to LoadMap(/Game/Maps/Battle_Stage)
+[2019.03.10-21.03.56:719][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-21.03.56:767][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-21.03.56:837][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-21.03.56:867][883]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.10-21.04.10:804][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.05.53:648][870]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-21.05.53:655][870]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Battle_Stage.Battle_Stage
+[2019.03.10-21.05.53:713][870]Cmd: MAP LOAD FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.10-21.05.53:713][870]LightingResults: New page: Lighting Build
+[2019.03.10-21.05.53:715][870]LoadErrors: New page: Loading map: Battle_Stage.umap
+[2019.03.10-21.05.53:715][870]MapCheck: New page: Map Check
+[2019.03.10-21.05.53:715][870]LightingResults: New page: Lighting Build
+[2019.03.10-21.05.53:940][870]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.10-21.05.54:057][870]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.10-21.05.54:239][870]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 181.279ms to complete.
+[2019.03.10-21.05.54:241][870]LogFileHelpers: Loading map 'Battle_Stage' took 0.529
+[2019.03.10-21.10.25:488][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.11.28:749][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.12.16:620][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.12.16:686][138]MapCheck: New page: Map Check
+[2019.03.10-21.12.16:714][138]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.10-21.12.16:714][138]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.10-21.12.16:980][138]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ArrowMaterial, compiling. 
+[2019.03.10-21.12.16:994][138]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.03.10-21.12.20:105][138]TextureStreamingBuild: Display: Compiling optional shaders took 3.134 seconds.
+[2019.03.10-21.12.20:109][138]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2019.03.10-21.12.20:124][138]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2019.03.10-21.12.20:178][138]LightingResults: New page: Lighting Build - Mar 10, 2019, 1:12:20 PM
+[2019.03.10-21.12.20:196][138]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.10-21.12.20:201][138]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.10-21.12.20:201][138]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.10-21.12.20:203][138]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.10-21.12.20:203][138]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15136
+[2019.03.10-21.12.24:719][138]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.03.10-21.12.24:719][138]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.10-21.12.24:719][138]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.10-21.12.24:719][138]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.10-21.12.24:719][138]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.10-21.12.24:719][138]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.10-21.12.24:880][138]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.10-21.12.24:880][138]MapCheck: New page: Battle_Stage - Mar 10, 2019, 1:12:24 PM
+[2019.03.10-21.12.24:880][138]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.10-21.12.25:060][138]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 180.902ms to complete.
+[2019.03.10-21.12.25:085][138]LogEditorBuildUtils: Build time 0:08
+[2019.03.10-21.12.25:120][138]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ArrowMaterial, compiling. 
+[2019.03.10-21.12.25:166][138]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ArrowMaterial, compiling. 
+[2019.03.10-21.12.32:928][230]Job is a success!
+[2019.03.10-21.12.33:048][231]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.03.10-21.12.33:048][231]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.10-21.12.33:048][231]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.03.10-21.12.33:048][231]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.10-21.12.33:048][231]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.03.10-21.12.33:048][231]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.03.10-21.12.33:048][231]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.03.10-21.12.33:093][231]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2019.03.10-21.12.33:094][231]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.03.10-21.12.33:094][231]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.03.10-21.12.33:094][231]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.03.10-21.12.33:094][231]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.03.10-21.12.33:094][231]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.03.10-21.12.33:094][231]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.03.10-21.12.33:094][231]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2019.03.10-21.12.33:167][231]Lightmass on MSI: 1.77 sec total, 399 ms importing, 40 ms setup, 445 ms photons, 802 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.43 sec total, 296 ms processing.
+[2019.03.10-21.12.33:189][231]LogStaticLightingSystem: Illumination: 12.9 sec (13 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2019.03.10-21.12.33:189][231]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.10-21.12.33:189][231]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.10-21.12.33:726][231]DumpUnbuiltLightIteractions
+[2019.03.10-21.12.33:726][231]Lights with unbuilt interactions: 0
+[2019.03.10-21.12.33:726][231]
+[2019.03.10-21.12.33:726][231]Primitives with unbuilt interactions: 0
+[2019.03.10-21.12.33:806][232]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.10-21.12.33:806][232]MapCheck: New page: Battle_Stage - Mar 10, 2019, 1:12:33 PM
+[2019.03.10-21.12.33:996][232]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 189.42ms to complete.
+[2019.03.10-21.12.34:660][271]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-21.12.34:677][271]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-21.12.42:827][735]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-21.12.42:865][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-21.12.42:865][735]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 1:12:42 PM)
+[2019.03.10-21.12.42:866][735]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.10-21.12.42:868][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002732s)
+[2019.03.10-21.12.42:870][735]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-21.12.42:870][735]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2019.03.10-21.12.42:870][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.004489s)
+[2019.03.10-21.12.42:962][735]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-21.12.43:083][735]LogInit: FAudioDevice initialized.
+[2019.03.10-21.12.43:116][735]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-21.12.43:117][735]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-17.12.43
+[2019.03.10-21.12.43:118][735]LogWorld: Bringing up level for play took: 0.001021
+[2019.03.10-21.12.43:134][735]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage 0.894
+[2019.03.10-21.12.47:182][976]LogBlueprintUserMessages: [Paper2D_Character_C_0] Battle!
+[2019.03.10-21.12.47:198][977]LogNet: Browse: /Game/Maps/Battle_Stage
+[2019.03.10-21.12.47:198][977]LogLoad: LoadMap: /Game/Maps/Battle_Stage
+[2019.03.10-21.12.47:259][977]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.10-21.12.47:262][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002855s)
+[2019.03.10-21.12.47:263][977]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-21.12.47:263][977]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2019.03.10-21.12.47:263][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.004453s)
+[2019.03.10-21.12.47:263][977]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-21.12.47:265][977]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-17.12.47
+[2019.03.10-21.12.47:266][977]LogWorld: Bringing up level for play took: 0.001085
+[2019.03.10-21.12.47:266][977]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.10-21.12.47:268][977]LogLoad: Took 0.069952 seconds to LoadMap(/Game/Maps/UEDPIE_0_Battle_Stage)
+[2019.03.10-21.12.56:529][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-21.12.56:575][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-21.12.56:643][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-21.12.56:676][533]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.10-21.13.08:850][260]LogEditorViewport: Clicking on Actor (LMB): Spawner_BP_C (Spawner_BP)
+[2019.03.10-21.13.16:331][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.13.16:381][707]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.10-21.13.16:421][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.10-21.13.16:421][707]PIE: New page: PIE session: Battle_Stage (Mar 10, 2019, 1:13:16 PM)
+[2019.03.10-21.13.16:422][707]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Battle_Stage
+[2019.03.10-21.13.16:425][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002822s)
+[2019.03.10-21.13.16:426][707]LogAIModule: Creating AISystem for world Battle_Stage
+[2019.03.10-21.13.16:426][707]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2019.03.10-21.13.16:426][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Battle_Stage.Battle_Stage to /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage (0.004453s)
+[2019.03.10-21.13.16:513][707]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.10-21.13.16:627][707]LogInit: FAudioDevice initialized.
+[2019.03.10-21.13.16:659][707]LogLoad: Game class is 'Paper_GM_C'
+[2019.03.10-21.13.16:661][707]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Battle_Stage.Battle_Stage up for play (max tick rate 60) at 2019.03.10-17.13.16
+[2019.03.10-21.13.16:661][707]LogWorld: Bringing up level for play took: 0.000983
+[2019.03.10-21.13.16:676][707]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Battle_Stage 0.437
+[2019.03.10-21.13.21:605][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-21.13.21:649][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.10-21.13.21:709][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.10-21.13.21:742][  2]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.10-21.13.30:748][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.13.45:861][436]LogEditorViewport: Clicking on Actor (LMB): Spawner_BP_C (Spawner_BP)
+[2019.03.10-21.13.56:738][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.13.56:821][ 88]MapCheck: New page: Map Check
+[2019.03.10-21.13.56:852][ 88]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.10-21.13.56:853][ 88]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.10-21.13.57:106][ 88]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ArrowMaterial, compiling. 
+[2019.03.10-21.13.57:120][ 88]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.03.10-21.14.00:082][ 88]TextureStreamingBuild: Display: Compiling optional shaders took 2.985 seconds.
+[2019.03.10-21.14.00:086][ 88]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2019.03.10-21.14.00:101][ 88]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2019.03.10-21.14.00:161][ 88]LightingResults: New page: Lighting Build - Mar 10, 2019, 1:14:00 PM
+[2019.03.10-21.14.00:178][ 88]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.10-21.14.00:182][ 88]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.10-21.14.00:182][ 88]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.10-21.14.00:183][ 88]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.10-21.14.00:184][ 88]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15136
+[2019.03.10-21.14.04:700][ 88]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.03.10-21.14.04:700][ 88]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.10-21.14.04:700][ 88]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.10-21.14.04:701][ 88]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.10-21.14.04:701][ 88]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.10-21.14.04:701][ 88]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.10-21.14.04:851][ 88]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.10-21.14.04:851][ 88]MapCheck: New page: Battle_Stage - Mar 10, 2019, 1:14:04 PM
+[2019.03.10-21.14.04:851][ 88]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.10-21.14.05:032][ 88]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 181.238ms to complete.
+[2019.03.10-21.14.05:057][ 88]LogEditorBuildUtils: Build time 0:08
+[2019.03.10-21.14.07:955][173]Job is a success!
+[2019.03.10-21.14.08:047][174]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.03.10-21.14.08:047][174]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.10-21.14.08:047][174]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.03.10-21.14.08:047][174]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.10-21.14.08:048][174]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.03.10-21.14.08:048][174]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.03.10-21.14.08:048][174]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.03.10-21.14.08:089][174]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2019.03.10-21.14.08:089][174]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.03.10-21.14.08:089][174]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.03.10-21.14.08:089][174]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.03.10-21.14.08:089][174]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.03.10-21.14.08:089][174]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.03.10-21.14.08:090][174]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.03.10-21.14.08:090][174]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2019.03.10-21.14.08:109][174]Lightmass on MSI: 1.65 sec total, 366 ms importing, 41 ms setup, 410 ms photons, 764 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.17 sec total, 300 ms processing.
+[2019.03.10-21.14.08:189][174]LogStaticLightingSystem: Illumination: 7.98 sec (13 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2019.03.10-21.14.08:189][174]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.10-21.14.08:189][174]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.10-21.14.08:704][174]DumpUnbuiltLightIteractions
+[2019.03.10-21.14.08:704][174]Lights with unbuilt interactions: 0
+[2019.03.10-21.14.08:704][174]
+[2019.03.10-21.14.08:704][174]Primitives with unbuilt interactions: 0
+[2019.03.10-21.14.08:784][175]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.10-21.14.08:784][175]MapCheck: New page: Battle_Stage - Mar 10, 2019, 1:14:08 PM
+[2019.03.10-21.14.08:968][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 184.577ms to complete.
+[2019.03.10-21.16.15:345][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.10-21.16.15:440][661]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_Auto1B5CB78EE4D6B3CB23382118EC5BA4ECB.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto1.umap'
+[2019.03.10-21.16.15:448][661]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.750
+[2019.03.10-21.16.15:448][661]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.750
+[2019.03.10-21.16.15:454][661]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Battle_Stage_BuiltData] ([1] browsable assets)...
+[2019.03.10-21.16.15:454][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Battle_Stage_BuiltData]
+[2019.03.10-21.16.15:454][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_BuiltData_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.03.10-21.16.15:504][661]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltData_Auto152A25A0A452613B16622B183BA275479.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_BuiltData_Auto1.uasset'
+[2019.03.10-21.16.15:506][661]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.03.10-21.38.10:786][312]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-21.38.10:795][312]LogSlate: Window 'Message Log' being destroyed
+[2019.03.10-21.39.50:206][627]Cmd: DELETE
+[2019.03.10-21.39.50:206][627]Cmd: ACTOR DELETE
+[2019.03.10-21.39.50:566][627]LogEditorActor: Deleted Actor: Spawner_BP_C
+[2019.03.10-21.39.50:635][627]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.03.10-21.39.54:575][860]Cmd: TRANSACTION UNDO
+[2019.03.10-21.39.54:576][860]LogEditorTransaction: Undo Delete Actors
+[2019.03.10-21.39.56:335][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.41.00:370][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.03.10-21.41.00:801][205]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_Auto2C7671ACE42A07C86464D9D8973333B64.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Maps/Battle_Stage_Auto2.umap'
+[2019.03.10-21.41.00:809][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.507
+[2019.03.10-21.41.00:809][205]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.507
+[2019.03.10-21.45.51:105][172]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter
+[2019.03.10-21.45.58:639][484]LogSlate: Window 'Random_Battle_Encounter' being destroyed
+[2019.03.10-21.45.58:780][484]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter
+[2019.03.10-21.46.03:034][619]LogSlate: Window 'Random_Battle_Encounter' being destroyed
+[2019.03.10-21.46.03:047][619]LogSlate: Window 'Random_Battle_Encounter' being destroyed
+[2019.03.10-21.46.04:467][693]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.10-21.46.32:223][712]BlueprintLog: New page: Collapse to Macro
+[2019.03.10-21.46.33:981][772]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2019.03.10-21.46.57:767][600]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2019.03.10-21.47.05:237][891]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-21.47.06:538][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.10-21.47.06:641][921]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter20CA2E804FDFA5A043527E9C4E27809D.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.10-21.47.13:911][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.10-21.47.14:023][209]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterD389105A42E81F26875D59A00404F857.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.10-21.47.15:337][259]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-21.47.16:386][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.10-21.47.16:450][280]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterF8AB14354109EF86E7B7B895AEE634AF.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.10-21.47.17:982][342]LogSlate: Window 'Random_Encounter' being destroyed
+[2019.03.10-21.47.17:993][342]LogSlate: Window 'Random_Encounter' being destroyed
+[2019.03.10-21.47.19:250][406]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Battle_Encounter.Random_Battle_Encounter
+[2019.03.10-21.50.06:129][709]LogSlate: Window 'Random_Battle_Encounter' being destroyed
+[2019.03.10-21.50.06:139][709]LogSlate: Window 'Random_Battle_Encounter' being destroyed
+[2019.03.10-21.50.07:699][791]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.10-21.50.17:722][157]LogEditorTransaction: Undo Delete current selection
+[2019.03.10-21.50.51:441][628]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-21.50.54:223][733]LogRenderer: Reallocating scene render targets to support 1216x712 Format 10 NumSamples 1 (Frame:1).
+[2019.03.10-21.51.02:486][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.51.29:029][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.51.46:150][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.52.50:562][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.53.43:441][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.54.43:185][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-21.54.48:275][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.55.18:145][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.059
+[2019.03.10-21.55.18:450][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Game/Random_Encounter] ([1] browsable assets)...
+[2019.03.10-21.55.18:483][105]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter]
+[2019.03.10-21.55.18:483][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/Random_Encounter]
+[2019.03.10-21.55.18:483][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.10-21.55.18:575][105]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter_Auto399D179BD4168AAA43CAB54AD609E48A3.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto3.uasset'
+[2019.03.10-21.55.18:577][105]LogFileHelpers: Auto-saving content packages took 0.430
+[2019.03.10-21.55.52:532][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.56.09:441][993]LogEditorTransaction: Undo Make New Scene Root
+[2019.03.10-21.57.04:044][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.57.12:791][521]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-21.57.14:863][586]LogSlate: Window 'Random_Encounter*' being destroyed
+[2019.03.10-21.57.14:875][586]LogSlate: Window 'Random_Encounter*' being destroyed
+[2019.03.10-21.57.19:015][821]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Spawner_BP.Spawner_BP
+[2019.03.10-21.57.23:936][971]LogSlate: Window 'Spawner_BP' being destroyed
+[2019.03.10-21.57.23:948][971]LogSlate: Window 'Spawner_BP' being destroyed
+[2019.03.10-21.57.27:406][165]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character
+[2019.03.10-21.57.42:781][666]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-21.57.42:793][666]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-21.57.50:881][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/austria_sprite_by_jpopkitty_d54qhwe" FILE="../../../../../Projects/RPGDemo/Content/Characters/austria_sprite_by_jpopkitty_d54qhwe.uasset" SILENT=true
+[2019.03.10-21.57.50:903][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q6344117B4BFDB3529625128EF488C92A.tmp' to '../../../../../Projects/RPGDemo/Content/Characters/austria_sprite_by_jpopkitty_d54qhwe.uasset'
+[2019.03.10-21.57.51:516][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q49AFA02F4DC6FF26AA00DA83126CD09C.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_5.uasset'
+[2019.03.10-21.57.51:590][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54qA7CDE53B483FD18BA7FE53AD5FD48214.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_6.uasset'
+[2019.03.10-21.57.51:668][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q4CFB13144688A75029F6A6BD20AA98D9.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_7.uasset'
+[2019.03.10-21.57.51:742][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q90A7DD144DFD5F57C5D6189D67076CA0.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_8.uasset'
+[2019.03.10-21.57.51:819][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54qC86CE19343EE3F0A4D65578E11A5E2C8.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_9.uasset'
+[2019.03.10-21.57.51:896][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q39E6418249B2A7253941F3BE54570355.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_0.uasset'
+[2019.03.10-21.57.51:979][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54qE96A64FB4876D92D67DF9686A456AD92.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_1.uasset'
+[2019.03.10-21.57.52:052][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q20F8768B415B8A91440A56B7C100E5F8.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_10.uasset'
+[2019.03.10-21.57.52:134][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q6D47B81F48A282DF43A5DD9732BA328B.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_11.uasset'
+[2019.03.10-21.57.52:217][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54qD7066D554DFF699BF2FA9B81B39A11D0.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_2.uasset'
+[2019.03.10-21.57.52:304][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q52FDD2D54C1540DBD7465E91902749A8.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_3.uasset'
+[2019.03.10-21.57.52:389][121]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/austria_sprite_by_jpopkitty_d54q87222C174851C7B999C4EF8CA7CED042.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Sprites/austria_sprite_by_jpopkitty_d54qhwe_Sprite_4.uasset'
+[2019.03.10-21.58.00:135][575]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.10-21.58.11:039][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.58.31:108][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.58.38:360][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.59.10:624][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-21.59.26:952][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.00.12:565][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.00.34:851][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.00.52:681][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.01.00:772][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.01.21:399][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.01.34:853][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.01.40:777][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.01.51:596][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.02.00:573][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.02.00:650][786]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-22.02.01:594][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.10-22.02.01:706][803]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_EncounterB5150A1F42E4BBEF2EDB69B058761AF3.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.10-22.02.02:203][822]LogSlate: Window 'Random_Encounter' being destroyed
+[2019.03.10-22.02.02:213][822]LogSlate: Window 'Random_Encounter' being destroyed
+[2019.03.10-22.02.07:544][126]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character
+[2019.03.10-22.02.37:957][ 88]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-22.02.37:968][ 88]LogSlate: Window 'Paper2D_Character' being destroyed
+[2019.03.10-22.02.41:049][258]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Spawner_BP.Spawner_BP
+[2019.03.10-22.03.37:700][388]LogSlate: Window 'Spawner_BP' being destroyed
+[2019.03.10-22.03.37:712][388]LogSlate: Window 'Spawner_BP' being destroyed
+[2019.03.10-22.03.39:485][484]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter
+[2019.03.10-22.04.16:653][689]LogSlate: Window 'Construction Script' being destroyed
+[2019.03.10-22.04.24:684][ 18]LogSlate: Window 'Random_Encounter' being destroyed
+[2019.03.10-22.04.36:894][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.05.04:698][223]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Spawner_BP.Spawner_BP
+[2019.03.10-22.05.27:415][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Spawner_BP" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Spawner_BP.uasset" SILENT=true
+[2019.03.10-22.05.27:483][538]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Spawner_BP9148E3F44D3E0FA0FC20949F0F7CD596.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Spawner_BP.uasset'
+[2019.03.10-22.05.45:827][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Spawner_BP" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Spawner_BP.uasset" SILENT=true
+[2019.03.10-22.05.45:878][592]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Spawner_BPEC4775A243DAA3E886ABDCA7FF0107D2.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Spawner_BP.uasset'
+[2019.03.10-22.06.11:654][968]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Game/Spawner_BP.Spawner_BP
+[2019.03.10-22.07.00:997][843]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-22.07.01:006][843]LogBlueprint: Error: [Compiler Random_Encounter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.03.10-22.07.01:479][843]LogBlueprint: Warning: [Compiler Random_Encounter] [5332.29] Compile of Random_Encounter failed. 1 Fatal Issue(s) 0 Warning(s) [in 482 ms] (/Game/Blueprints/Game/Random_Encounter.Random_Encounter)
+[2019.03.10-22.08.18:356][ 40]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-22.09.24:796][947]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-22.11.03:673][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-22.13.23:396][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.067
+[2019.03.10-22.13.23:400][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Game/Random_Encounter] ([1] browsable assets)...
+[2019.03.10-22.13.23:428][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter]
+[2019.03.10-22.13.23:428][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/Random_Encounter]
+[2019.03.10-22.13.23:428][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.10-22.13.23:854][483]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter_Auto4AEB7B89B491F56D9F2EEC8A6F48C72EC.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto4.uasset'
+[2019.03.10-22.13.23:857][483]LogFileHelpers: Auto-saving content packages took 0.459
+[2019.03.10-22.13.32:227][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-22.13.32:459][977]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_StageAE291A16425A2E8A9246CFA99BA915D9.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.10-22.13.32:542][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.10-22.13.32:596][977]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltData57790B0A49B1FCBC67175683BA631A91.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.10-23.17.57:424][295]LogHttp: Warning: 0000024728587100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.10-23.17.57:425][295]LogHttp: Warning: 0000024728587100: libcurl info message cache 0 (Connection 54 seems to be dead!)
+[2019.03.10-23.17.57:425][295]LogHttp: Warning: 0000024728587100: libcurl info message cache 1 (Closing connection 54)
+[2019.03.10-23.17.57:425][295]LogHttp: Warning: 0000024728587100: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.10-23.17.57:425][295]LogHttp: Warning: 0000024728587100: libcurl info message cache 3 (Closing connection 55)
+[2019.03.10-23.18.43:038][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-23.18.47:964][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-23.19.02:821][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-23.21.03:666][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.10-23.22.09:442][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-23.22.17:165][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-23.22.28:183][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-23.23.47:575][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-23.25.45:648][268]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-23.26.16:368][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battle_Stage' took 0.037
+[2019.03.10-23.26.16:370][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Game/Random_Encounter] ([1] browsable assets)...
+[2019.03.10-23.26.16:384][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Game/Random_Encounter.Random_Encounter]
+[2019.03.10-23.26.16:384][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/Random_Encounter]
+[2019.03.10-23.26.16:384][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.03.10-23.26.16:431][931]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter_Auto5174E096E4F3CF6DC38725C910CD46A18.tmp' to '../../../../../Projects/RPGDemo/Saved/Autosaves/Game/Blueprints/Game/Random_Encounter_Auto5.uasset'
+[2019.03.10-23.26.16:432][931]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.03.10-23.27.21:558][837]BlueprintLog: New page: Compile Spawner_BP
+[2019.03.10-23.27.44:334][192]BlueprintLog: New page: Compile Spawner_BP
+[2019.03.10-23.28.04:472][378]BlueprintLog: New page: Compile Random_Encounter
+[2019.03.10-23.28.06:057][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Spawner_BP" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Spawner_BP.uasset" SILENT=true
+[2019.03.10-23.28.06:188][460]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Spawner_BPBAF21A074E42656DAAA0D1822B45957B.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Spawner_BP.uasset'
+[2019.03.10-23.28.07:592][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/Random_Encounter" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset" SILENT=true
+[2019.03.10-23.28.07:631][542]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Random_Encounter7792F52D4A0CD3616DCE53B818AED39F.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Game/Random_Encounter.uasset'
+[2019.03.10-23.28.27:998][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-23.28.28:061][761]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage7C136CCE4BA4C77532B70796C9E6C511.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.10-23.28.28:098][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.10-23.28.28:125][761]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltDataD642CBBF48B384E7D7A51CA6453BD6FD.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.10-23.28.48:786][  0]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Character.Paper2D_Character
+[2019.03.10-23.29.08:811][176]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-23.29.09:890][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_Character" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset" SILENT=true
+[2019.03.10-23.29.10:086][219]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_CharacterC3AB0DD94F3471ED213ED5BDA3EF1FF5.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset'
+[2019.03.10-23.29.51:608][675]LogEditorTransaction: Undo Move Node
+[2019.03.10-23.29.53:261][771]BlueprintLog: New page: Compile Paper2D_Character
+[2019.03.10-23.30.11:363][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Paper2D_Character" FILE="../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset" SILENT=true
+[2019.03.10-23.30.11:449][838]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Paper2D_Character941987D148F09145B788A9909CFED3C5.tmp' to '../../../../../Projects/RPGDemo/Content/Blueprints/Character/Paper2D_Character.uasset'
+[2019.03.10-23.31.27:097][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.10-23.31.30:558][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.10-23.31.30:620][580]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage57E5A81E4CE3414C871426A5711ED380.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage.umap'
+[2019.03.10-23.31.30:656][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battle_Stage_BuiltData" FILE="../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset" SILENT=true
+[2019.03.10-23.31.30:678][580]LogSavePackage: Moving '../../../../../Projects/RPGDemo/Saved/Battle_Stage_BuiltData521122FF411F09454C57F4AE6488DE55.tmp' to '../../../../../Projects/RPGDemo/Content/Maps/Battle_Stage_BuiltData.uasset'
+[2019.03.10-23.52.27:235][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-00.03.14:295][188]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.11-00.08.35:367][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-00.08.35:491][402]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Paper2D_Enemy.Paper2D_Enemy
+[2019.03.11-00.10.47:671][153]LogSlate: Window 'Save Content' being destroyed
+[2019.03.11-00.10.48:005][153]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.11-00.10.48:087][153]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.11-00.10.48:148][153]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.11-00.10.48:206][153]LogSlate: Window 'RPGDemo - Unreal Editor' being destroyed
+[2019.03.11-00.10.48:611][154]Cmd: QUIT_EDITOR
+[2019.03.11-00.10.49:790][154]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.11-00.10.49:936][154]LogExit: Preparing to exit.
